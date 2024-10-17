@@ -42,7 +42,7 @@ My mission is to **leverage technology** to solve real-world problems and build 
 ---
 
 ### 💼 Featured Project: **libft**
-[![Libft](https://img.shields.io/badge/-View%20Repository-brightgreen?style=for-the-badge&logo=github&link=https://github.com/melaniereis/libft)](https://github.com/melaniereis/libft)
+[![Libft](https://img.shields.io/badge/-View%20Repository-brightgreen?style=for-the-badge&logo=github&link=https://github.com/melaniereis/42_libft)](https://github.com/melaniereis/42_libft)
 
 - **Description**: **libft** is my first major project at **42 School**. It’s a custom-built **C library** that recreates many standard functions from scratch, including `strlen`, `memset`, and more. The project taught me valuable lessons about **memory management**, **algorithm efficiency**, and writing **modular, reusable code**.
 - **Highlights**:
