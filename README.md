@@ -2,7 +2,7 @@
 
 ### 🌟 Developer in Transition | Nurse Turned Programmer | Problem-Solver 💻🩺
 
-[Typing SVG][1]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+in+Training;Nurse+Turned+Programmer;Building+Solutions+for+Healthcare)](https://git.io/typing-svg)
 
 I'm **Melanie Reis**, a developer-in-training at **42 School** in Porto, transitioning from a rewarding career as a **nurse** to become a proficient software developer. My journey blends **healthcare** and **technology**, driving me to create impactful solutions in the world of programming.
 
@@ -88,6 +88,3 @@ My mission is to **leverage technology** to solve real-world problems and build 
 ## ⚡ Fun Fact
 
 I'm balancing life as a **mom**, a **developer-in-training**, and a **former nurse**. This unique mix of roles keeps me focused and always striving to find balance and creativity in everything I do. My background in healthcare gives me a unique perspective on problem-solving in tech, always keeping the end-user in mind.
-
-Citations:
-[1] https://readme-typing-svg.demolab.com/?lines=Developer+in+Training
