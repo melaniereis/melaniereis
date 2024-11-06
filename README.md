@@ -13,7 +13,7 @@ My mission is to **leverage technology** to solve real-world problems and build 
 ## 🌟 Visitor Counter
 
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=melaniereis.visitor-badge" alt="Visitors" />
+  <img src="https://hits.seeyour.website/count/your-github-username.svg" alt="Visitor Count" />
 </p>
 
 ## 🚀 Core Skills
