@@ -12,9 +12,8 @@ My mission is to **leverage technology** to solve real-world problems and build 
 
 ## 🌟 Visitor Counter
 
-<p align="left">
-  <img src="https://hits.seeyour.website/count/your-github-username.svg" alt="Visitor Count" />
-</p>
+![Visitor Count](https://counter6.optistats.ovh/private/freecounterstat.php?c=2glmpztxb4kpcwredgrzcn8r9nj68x9b)
+
 
 ## 🚀 Core Skills
 
