@@ -36,37 +36,38 @@ My mission is to **leverage technology** to solve real-world problems and build 
 
 ## 💼 Featured Projects
 
-### ft_printf
-
-[ft_printf
-
-**Description**: ft_printf is my current project at 42 School, where I'm recreating the functionality of the printf function in C. This project is enhancing my skills in:
-
-- **Variadic functions**
-- **String manipulation**
-- **Memory management**
-- **Parsing and formatting**
-
-**Highlights**:
-- Implementing complex string formatting and conversion specifiers
-- Optimizing for performance and memory usage
-- Developing a deeper understanding of C's inner workings
-
 ### libft
+- **Description**: A custom-built C library that recreates many standard functions from scratch, including `strlen`, `memset`, and more.
+- **Skills Enhanced**:
+  - Low-level programming
+  - Memory management
+  - Debugging and optimization
+- **Highlights**:
+  - Improved problem-solving skills through debugging
+  - Built a strong foundation in memory handling
 
-[Libft
+### ft_printf
+- **Description**: A recreation of the `printf` function in C.
+- **Skills Enhanced**:
+  - Variadic functions
+  - String manipulation
+  - Memory management
+- **Highlights**:
+  - Implemented complex string formatting
+  - Optimized for performance
 
-**Description**: libft was my first major project at 42 School. It's a custom-built C library that recreates many standard functions from scratch, including `strlen`, `memset`, and more.
-
-**Highlights**:
-- Improved **problem-solving** skills by debugging and optimizing C code
-- Built a strong foundation in **low-level programming** and memory handling
+### get_next_line (In Progress)
+- **Description**: Developing a function that reads a line from a file descriptor.
+- **Skills Focus**:
+  - File handling in C
+  - Dynamic memory management
+  - Buffer management
+- **Current Status**: Actively coding and testing various scenarios.
 
 ## 🔭 Upcoming Projects
-
-- Exploring **data structures and algorithms** through practical coding challenges
-- Diving into **system programming** with a focus on operating systems concepts
-- Contributing to **open-source projects** related to healthcare technology
+- Completing `get_next_line`
+- Exploring data structures and algorithms through practical coding challenges
+- Diving into system programming with a focus on operating systems concepts
 
 ## 📫 Let's Connect!
 
