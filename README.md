@@ -12,7 +12,7 @@ My mission is to **leverage technology** to solve real-world problems and build 
 
 ## 🌟 Visitor Counter
 
-![Visitor Count](https://counter6.optistats.ovh/private/freecounterstat.php?c=2glmpztxb4kpcwredgrzcn8r9nj68x9b)
+![Visitor Count](https://profile-counter.glitch.me/melaniereis/count.svg)
 
 
 ## 🚀 Core Skills
