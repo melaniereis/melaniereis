@@ -33,6 +33,7 @@ My mission is to **leverage technology** to solve real-world problems and build 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 ## 🎓 My 42 Projects
 
 Here are the projects I've completed and am currently working on at 42 School.
