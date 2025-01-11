@@ -30,7 +30,11 @@ My mission is to **leverage technology** to solve real-world problems and build 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=radical" alt="Melanie's GitHub stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
