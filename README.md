@@ -40,15 +40,15 @@ Here are the projects I've completed and am currently working on at 42 School.
 
 <div align="center">
 
-| Project Name | Description | Status | Repository |
-|--------------|-------------|--------|------------|
-| Libft | A library of rewritten C standard functions | ![Static Badge](https://img.shields.io/badge/125%2F100-green) | [🔗 Libft](https://github.com/melaniereis/libft) |
-| Printf | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-green) | [🔗 Printf](https://github.com/melaniereis/42_ft_printf) |
-| Get_next_line | Reads a file or input line by line | ![Static Badge](https://img.shields.io/badge/125%2F100-green) | [🔗 Get_next_line](https://github.com/melaniereis/42_get_next_line) |
-| Push_swap | Implementation of a sorting algorithm | ![Static Badge](https://img.shields.io/badge/100%2F100-green) | [🔗 Push_swap](https://github.com/melaniereis/42_push_swap) |
-| So_long | A simple grid-based 2D game | ![Static Badge](https://img.shields.io/badge/115%2F100-green) | [🔗 So_long](https://github.com/melaniereis/42_so_long) |
-| Minitalk | Small data exchange program using UNIX signals | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) | [🔗 Minitalk](https://github.com/melaniereis/42_minitalk) |
-| Philosophers | Dining philosophers problem simulation | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) | [🔗 Philosophers](https://github.com/melaniereis/42_philosophers) |
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| [🔗 Libft](https://github.com/melaniereis/libft) | A library of rewritten C standard functions | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
+| [🔗 Printf](https://github.com/melaniereis/42_ft_printf)  | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| [🔗 Get_next_line](https://github.com/melaniereis/42_get_next_line) | Reads a file or input line by line | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
+| [🔗 Push_swap](https://github.com/melaniereis/42_push_swap) | Implementation of a sorting algorithm | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| [🔗 So_long](https://github.com/melaniereis/42_so_long) | A simple grid-based 2D game | ![Static Badge](https://img.shields.io/badge/115%2F100-green) |
+| [🔗 Minitalk](https://github.com/melaniereis/42_minitalk)  | Small data exchange program using UNIX signals | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
+| [🔗 Philosophers](https://github.com/melaniereis/42_philosophers) | Dining philosophers problem simulation | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
 
 </div>
 
