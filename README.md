@@ -40,7 +40,7 @@ Here are the projects I've completed and am currently working on at 42 School.
 
 <div align="center">
 
-| Project Name | Description | Status |
+| Project Name | Description | Grade |
 |--------------|-------------|--------|
 | [🔗 Libft](https://github.com/melaniereis/libft) | A library of rewritten C standard functions | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
 | [🔗 Printf](https://github.com/melaniereis/42_ft_printf)  | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
