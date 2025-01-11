@@ -34,40 +34,7 @@ My mission is to **leverage technology** to solve real-world problems and build 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 💼 Featured Projects
 
-### libft
-- **Description**: A custom-built C library that recreates many standard functions from scratch, including `strlen`, `memset`, and more.
-- **Skills Enhanced**:
-  - Low-level programming
-  - Memory management
-  - Debugging and optimization
-- **Highlights**:
-  - Improved problem-solving skills through debugging
-  - Built a strong foundation in memory handling
-
-### ft_printf
-- **Description**: A recreation of the `printf` function in C.
-- **Skills Enhanced**:
-  - Variadic functions
-  - String manipulation
-  - Memory management
-- **Highlights**:
-  - Implemented complex string formatting
-  - Optimized for performance
-
-### get_next_line (In Progress)
-- **Description**: Developing a function that reads a line from a file descriptor.
-- **Skills Focus**:
-  - File handling in C
-  - Dynamic memory management
-  - Buffer management
-- **Current Status**: Actively coding and testing various scenarios.
-
-## 🔭 Upcoming Projects
-- Completing `get_next_line`
-- Exploring data structures and algorithms through practical coding challenges
-- Diving into system programming with a focus on operating systems concepts
 
 ## 📫 Let's Connect!
 
