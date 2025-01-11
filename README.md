@@ -34,6 +34,19 @@ My mission is to **leverage technology** to solve real-world problems and build 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+## 🎓 My 42 Projects
+
+Here are the projects I've completed and am currently working on at 42 School.
+
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| Libft | A library of rewritten C standard functions | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
+| Printf | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| Get_next_line | Reads a file or input line by line | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
+| Push_swap | Implementation of a sorting algorithm | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| So_long | A simple grid-based 2D game | ![Static Badge](https://img.shields.io/badge/115%2F100-green) |
+| Minitalk | Small data exchange program using UNIX signals | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
+| Philosophers | Dining philosophers problem simulation | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
 
 
 ## 📫 Let's Connect!
