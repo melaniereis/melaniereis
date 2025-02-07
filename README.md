@@ -51,8 +51,9 @@ Here are the projects I've completed and am currently working on at 42 School.
 | [🔗 Get_next_line](https://github.com/melaniereis/42_get_next_line) | Reads a file or input line by line | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
 | [🔗 Push_swap](https://github.com/melaniereis/42_push_swap) | Implementation of a sorting algorithm | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
 | [🔗 So_long](https://github.com/melaniereis/42_so_long) | A simple grid-based 2D game | ![Static Badge](https://img.shields.io/badge/115%2F100-green) |
-| [🔗 Minitalk](https://github.com/melaniereis/42_minitalk)  | Small data exchange program using UNIX signals | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
-| [🔗 Philosophers](https://github.com/melaniereis/42_philosophers) | Dining philosophers problem simulation | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
+| [🔗 Minitalk](https://github.com/melaniereis/42_minitalk)  | Small data exchange program using UNIX signals | ![Static Badge](https://img.shields.io/badge/116%2F100-green) |
+| [🔗 Philosophers](https://github.com/melaniereis/42_philosophers) | Dining philosophers problem simulation | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| [🔗 Minishell](https://github.com/m3reil3s/42_Minishell)  | A simple Unix shell implementation | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
 
 </div>
 
