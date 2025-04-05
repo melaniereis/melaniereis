@@ -80,8 +80,6 @@
 <!-- Footer -->
 <div align="center">
   
-![Visitors](https://visitor-badge.laobi.work/badge?page_id=melaniereis.melaniereis)
-  
 **"In surgery and software: precision matters, clean execution saves, and timing is everything!"** ⏱️💻
 
 </div>
