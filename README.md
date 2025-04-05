@@ -14,12 +14,12 @@
 
 ### Core Competencies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,md" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git" />
 </p>
 
 ### Development Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,stackoverflow,replit" />
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
 
