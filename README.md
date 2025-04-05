@@ -1,18 +1,3 @@
-<!-- Header Section -->
-<div align="center">
-  
-# 👋 Hi, I'm Melanie Reis 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Anesthesia+Specialist+→+Systems+Developer;42+Porto+Core+Student;Healthcare+Tech+Innovator;Low-Level+Programming+Enthusiast)](https://git.io/typing-svg)
-
-![Coding meets Healthcare](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0d2x5OHFvdGp4ODl6YjZ1eWx6OG5hYzB4MWR3N2h1Z2J6cGQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfX9Ejfra3ZmNxF6/giphy.gif)
-
-</div>
-markdown
-Copy
-<!-- Header Section -->
-<div align="center">
-  
 # 👋 Hi, I'm Melanie Reis 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3E6&center=true&vCenter=true&width=600&lines=Operating+Room+Nurse+→+Developer;42+Porto+Core+Student;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Systems+Programming+Specialist)](https://git.io/typing-svg)
