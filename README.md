@@ -35,7 +35,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=blueberry&bg_color=0D1117&langs_count=8)](https://github.com/melaniereis)
 
 </div>
-
+<div align="center">
 <!-- Projects Section -->
 ## 🏅 42 Porto Project Portfolio
 
@@ -55,6 +55,7 @@
 | **[CPP Modules](https://github.com/melaniereis/42_CPP_Module00)** | Introduction to C++ concepts | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C++` `OOP` |
 | **[CPP Modules](https://github.com/melaniereis/42_CPP_Module01)** | C++ fundamentals series | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C++` `OOP` |
 
+</div>
 <!-- Connect Section -->
 ## 🌐 Let's Collaborate!
 
