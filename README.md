@@ -46,11 +46,16 @@ Here are the projects I've completed and am currently working on at 42 School.
 | [🔗 Libft](https://github.com/melaniereis/libft) | A library of rewritten C standard functions | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
 | [🔗 Printf](https://github.com/melaniereis/42_ft_printf)  | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
 | [🔗 Get_next_line](https://github.com/melaniereis/42_get_next_line) | Reads a file or input line by line | ![Static Badge](https://img.shields.io/badge/125%2F100-green) |
+| Born2beroot | A project focusing on Linux system administration | ![Static Badge](https://img.shields.io/badge/106%2F100-green) |
 | [🔗 Push_swap](https://github.com/melaniereis/42_push_swap) | Implementation of a sorting algorithm | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
 | [🔗 So_long](https://github.com/melaniereis/42_so_long) | A simple grid-based 2D game | ![Static Badge](https://img.shields.io/badge/115%2F100-green) |
 | [🔗 Minitalk](https://github.com/melaniereis/42_minitalk)  | Small data exchange program using UNIX signals | ![Static Badge](https://img.shields.io/badge/116%2F100-green) |
 | [🔗 Philosophers](https://github.com/melaniereis/42_philosophers) | Dining philosophers problem simulation | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
-| [🔗 Minishell](https://github.com/m3reil3s/42_Minishell)  | A simple Unix shell implementation | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
+| [🔗 Minishell](https://github.com/melaniereis/42_Minishell)  | A simple Unix shell implementation | ![Static Badge](https://img.shields.io/badge/99%2F100-green) |
+| [🔗 NetPractice](https://github.com/melaniereis/42_NetPractice)  | Network practice project | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| [🔗 CPP Module 00](https://github.com/melaniereis/42_CPP_Module00) | Introduction to C++ programming | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| [🔗 CPP Module 01](https://github.com/melaniereis/42_CPP_Module01) | Advanced C++ programming concepts | ![Static Badge](https://img.shields.io/badge/100%2F100-green) |
+| [🔗 Cub3d](https://github.com/m3reil3s/42_Cub3d)  | A 3D rendering project using raycasting | ![Static Badge](https://img.shields.io/badge/In%20Progress-blue) |
 
 </div>
 
