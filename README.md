@@ -6,10 +6,6 @@
 
 I'm **Melanie Reis**, a developer-in-training at **42 School** in Porto, transitioning from a rewarding career as a **nurse** to become a proficient software developer. My journey blends **healthcare** and **technology**, driving me to create impactful solutions in the world of programming.
 
-## 🎯 Personal Mission
-
-My mission is to **leverage technology** to solve real-world problems and build **efficient**, **impactful software** that improves people's lives, particularly in **healthtech** and **system-level programming**.
-
 ## 🌟 Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/melaniereis/count.svg)
