@@ -1,17 +1,26 @@
-# Hello! I'm Melanie Reis 👋
+# Hi there I'm Melanie Reis 
 
-### 🌟 Developer in Transition | Nurse Turned Programmer | Problem-Solver 💻🩺
+### 🌟 Passionate Developer in Transition | Nurse Turned Programmer | Problem-Solver 💻🩺
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+in+Training;Nurse+Turned+Programmer;Building+Solutions+for+Healthcare)](https://git.io/typing-svg)
 
-I'm **Melanie Reis**, a developer-in-training at **42 School** in Porto, transitioning from a rewarding career as a **nurse** to become a proficient software developer. My journey blends **healthcare** and **technology**, driving me to create impactful solutions in the world of programming.
+## A Few Quick Facts
 
-## 🌟 Visitor Counter
+- I’m currently studying at **42 School** in Porto, focusing on **C**, **C++**, and **Linux** development.
 
-![Visitor Count](https://profile-counter.glitch.me/melaniereis/count.svg)
+- Learning about
 
+**Advanced C++ Programming, Linux System Administration, and Healthcare Tech Integration**.
 
-## 🚀 Core Skills
+- Most of my projects are available on Github.
+
+- Ping me about
+
+**C, C++, Bash Scripting, Healthcare Tech, and any tech-related topics**.
+
+- Check out my projects below.
+
+## Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -21,7 +30,6 @@ I'm **Melanie Reis**, a developer-in-training at **42 School** in Porto, transit
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 
 ## 🔥 GitHub Stats and Streaks
 
@@ -36,8 +44,6 @@ I'm **Melanie Reis**, a developer-in-training at **42 School** in Porto, transit
 </p>
 
 ## 🎓 My 42 Projects
-
-Here are the projects I've completed and am currently working on at 42 School.
 
 <div align="center">
 
@@ -68,14 +74,12 @@ Here are the projects I've completed and am currently working on at 42 School.
   </a>
 </p>
 
-## 📊 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/melaniereis/project/pull/42) in `melaniereis/project`
-2. 🗣 Commented on [#134](https://github.com/melaniereis/project/issues/134) in `melaniereis/project`
-3. 💪 Opened PR [#134](https://github.com/melaniereis/project/pull/134) in `melaniereis/project`
-<!--END_SECTION:activity-->
-
 ## ⚡ Fun Fact
 
-I'm balancing life as a **mom**, a **developer-in-training**, and a **former nurse**. This unique mix of roles keeps me focused and always striving to find balance and creativity in everything I do. My background in healthcare gives me a unique perspective on problem-solving in tech, always keeping the end-user in mind.
+I'm a **mom of two**, balancing life as a **developer-in-training** and a **former nurse**. I can speak four languages. My favorite coding superstition? Adding comments like “*// I don’t know why this works but don’t touch it*” next to mysterious but functional code. When I'm not coding, you can find me exploring the outdoors and simply enjoy every day life with my little family. 
+
+## 🌟 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/melaniereis/count.svg)
+<!--END_SECTION:activity-->
+
