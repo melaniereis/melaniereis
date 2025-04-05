@@ -7,7 +7,7 @@
 <!-- Introduction Section -->
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
-**Operating Room Nurse** transitioning to software development through **42 Porto's intensive program**. Passionate about creating healthcare tech solutions with surgical-grade precision. Multilingual mom managing two under two children 👶👧 while coding.
+**Operating Room Nurse** transitioning to software development through **42 Porto's intensive program**. Passionate about creating healthcare tech solutions with surgical-grade precision. Multilingual mom managing two under three 👶👧 while coding.
 
 <!-- Skills Section -->
 ## 🛠️ Technical Arsenal
