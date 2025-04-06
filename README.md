@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Melanie Reis 
-
+<div style="display: flex; align-items: center; gap: 20px;">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3E6&center=true&vCenter=true&width=600&lines=Operating+Room+Nurse+→+Developer;42+Porto+Core+Student;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Systems+Programming+Specialist)](https://git.io/typing-svg)
+
+<p align="right">
+  <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" width="200" />
+</p>
 
 </div>
 <!-- Introduction Section -->
   
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="min-width: 250px;">
+<div>
     <strong>Operating Room Nurse</strong> transitioning to software development through <strong>42 Porto's intensive program</strong>.<br><br>
     Passionate about creating healthcare tech solutions with surgical-grade precision.<br><br>
     Multilingual mom managing two under three 👶👧 while coding.
   </div>
-  <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" width="200" />
-</div>
 
 
 
