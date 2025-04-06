@@ -3,12 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3E6&center=true&vCenter=true&width=600&lines=Operating+Room+Nurse+→+Developer;42+Porto+Core+Student;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Systems+Programming+Specialist)](https://git.io/typing-svg)
 
 </div>
-<div>
 <!-- Introduction Section -->
   
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start;">
   
   <!-- Text Section -->
   <div style="flex: 1; min-width: 250px; margin-right: 20px;">
@@ -24,7 +23,6 @@
 
 </div>
 
-</div>
 <!-- Skills Section -->
 
 ## 🛠️ Technical Arsenal
