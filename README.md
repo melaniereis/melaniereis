@@ -35,8 +35,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=blueberry&bg_color=0D1117&langs_count=8)](https://github.com/melaniereis)
 
 </div>
-<div align="center">
 <!-- Projects Section -->
+<div align="center">
 ## 🏅 42 Porto Project Portfolio
 
 | Project | Description | Score | Technologies |
@@ -57,6 +57,7 @@
 
 </div>
 <!-- Connect Section -->
+
 ## 🌐 Let's Collaborate!
 
 <div align="center">
