@@ -3,21 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3E6&center=true&vCenter=true&width=600&lines=Operating+Room+Nurse+→+Developer;42+Porto+Core+Student;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Systems+Programming+Specialist)](https://git.io/typing-svg)
 
 </div>
+<div>
+
+<p align="right">
+    <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true", />
+</p>
 
 <!-- Introduction Section -->
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
 **Operating Room Nurse** transitioning to software development through **42 Porto's intensive program**. Passionate about creating healthcare tech solutions with surgical-grade precision. Multilingual mom managing two under three 👶👧 while coding.
 
+</div>
 <!-- Skills Section -->
 ## 🛠️ Technical Arsenal
 
 ### Core Competencies
 
 <p align="left">
-  <p align="right">
-    <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" />
-  </p>
   <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git" />
 </p>
 
