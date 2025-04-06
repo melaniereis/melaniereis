@@ -7,11 +7,10 @@
   
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
-<div>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+<div style="display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 20px;">
   
   <!-- Text Section -->
-  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
+  <div style="min-width: 250px;">
     <strong>Operating Room Nurse</strong> transitioning to software development through <strong>42 Porto's intensive program</strong>.<br><br>
     Passionate about creating healthcare tech solutions with surgical-grade precision.<br><br>
     Multilingual mom managing two under three 👶👧 while coding.
@@ -23,7 +22,7 @@
   </div>
 
 </div>
-</div>
+
 
 <!-- Skills Section -->
 
