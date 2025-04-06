@@ -8,7 +8,7 @@
   
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: flex;">
 
   <div style="flex: 1; min-width: 250px;">
     <strong>Operating Room Nurse</strong> transitioning to software development through <strong>42 Porto's intensive program</strong>.<br><br>
