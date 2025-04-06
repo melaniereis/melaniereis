@@ -8,18 +8,14 @@
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Text Section -->
-  <div style="flex: 1; min-width: 250px;">
+  <div style="min-width: 250px;">
     <strong>Operating Room Nurse</strong> transitioning to software development through <strong>42 Porto's intensive program</strong>.<br><br>
     Passionate about creating healthcare tech solutions with surgical-grade precision.<br><br>
     Multilingual mom managing two under three 👶👧 while coding.
   </div>
-
-  <!-- Image Section -->
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" alt="Melanie Nurse Developer" width="200" />
-  </div>
+  <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" width="200" />
 </div>
+
 
 
 <!-- Skills Section -->
