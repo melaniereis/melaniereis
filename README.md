@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Melanie Reis 
 <div style="display: flex; align-items: center; gap: 20px;">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3E6&center=true&vCenter=true&width=600&lines=Operating+Room+Nurse+→+Developer;42+Porto+Core+Student;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Systems+Programming+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bytesized&size=32&pause=1000&center=true&width=435&lines=42+Porto+Core+Student;Operating+Room+Nurse+-%3E+Developer;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Dreams+of+Bridging+Health+and+Tech)](https://git.io/typing-svg)
 
 <p align="right">
   <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" width="200" />
