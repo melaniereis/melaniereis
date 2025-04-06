@@ -5,21 +5,21 @@
 </div>
 <div>
 <!-- Introduction Section -->
+  
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" style="border: none;">
       <strong>Operating Room Nurse</strong> transitioning to software development through <strong>42 Porto's intensive program</strong>.<br><br>
       Passionate about creating healthcare tech solutions with surgical-grade precision.<br><br>
       Multilingual mom managing two under three 👶👧 while coding.
     </td>
-    <td align="right" width="40%">
+    <td align="right" style="border: none;">
       <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" width="200" />
     </td>
   </tr>
 </table>
-
 
 </div>
 <!-- Skills Section -->
