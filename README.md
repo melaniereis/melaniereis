@@ -4,11 +4,6 @@
 
 </div>
 <div>
-
-<p align="right">
-    <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true", />
-</p>
-
 <!-- Introduction Section -->
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
