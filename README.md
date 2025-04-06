@@ -7,7 +7,8 @@
   
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+<div>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start;">
   
   <!-- Text Section -->
   <div style="flex: 1; min-width: 250px; margin-right: 20px;">
@@ -21,6 +22,7 @@
     <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" width="200" />
   </div>
 
+</div>
 </div>
 
 <!-- Skills Section -->
