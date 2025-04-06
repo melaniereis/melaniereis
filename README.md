@@ -7,7 +7,7 @@
   
 ## 🏥 From Scalpel to Stack Overflow: Merging Surgical Precision with Code
 
-<div style="display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 20px;">
+<div style="display: grid; grid-template-rows: 1fr auto; align-items: center; gap: 20px;">
   
   <!-- Text Section -->
   <div style="min-width: 250px;">
