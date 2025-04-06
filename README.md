@@ -12,7 +12,7 @@
     Multilingual mom managing two under three 👶👧 while coding.
 
 <p align="right">
-  <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" width="200" />
+  <img src="https://github.com/melaniereis/melaniereis/blob/main/mel.png?raw=true" width="200" />
 </p>
 </div>
 
