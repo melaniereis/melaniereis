@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Melanie Reis 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bytesized&size=32&pause=1000&width=435&lines=42+Porto+Core+Student;Operating+Room+Nurse+-%3E+Developer;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Dreams+of+Bridging+Health+and+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bytesized&size=26&duration=3000&pause=1000&width=435&lines=42+Porto+Core+Student;Operating+Room+Nurse+-%3E+Developer;Multilingual+Tech+Enthusiast;Mother+of+2+Under+3;Dreams+of+Bridging+Health+%26+Tech)](https://git.io/typing-svg)
 
 <!-- Introduction Section -->
   
