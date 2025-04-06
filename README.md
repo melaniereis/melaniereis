@@ -24,9 +24,9 @@
 
 
 <!-- Stats Section -->
-<div align="center">
-
 ## 📈 Development Metrics
+
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melaniereis&theme=blueberry&background=0D1117&border=444)](https://git.io/streak-stats)
 
@@ -36,8 +36,9 @@
 
 </div>
 <!-- Projects Section -->
-<div align="center">
 ## 🏅 42 Porto Project Portfolio
+
+<div align="center">
 
 | Project | Description | Score | Technologies |
 |---------|-------------|-------|--------------|
