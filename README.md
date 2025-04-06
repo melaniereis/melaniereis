@@ -13,7 +13,11 @@
 ## 🛠️ Technical Arsenal
 
 ### Core Competencies
+
 <p align="left">
+  <p align="right">
+    <img src="https://github.com/melaniereis/melaniereis/blob/main/melanie_nurse_dev.gif?raw=true" />
+  </p>
   <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git" />
 </p>
 
