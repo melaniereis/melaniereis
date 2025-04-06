@@ -36,7 +36,8 @@
 
 </div>
 <!-- Projects Section -->
-##🏅 42 Porto Project Portfolio
+
+## 🏅 42 Porto Project Portfolio
 
 <div align="center">
 
