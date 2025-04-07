@@ -84,14 +84,13 @@
 </div>
 
 <!-- Fun Facts -->
-## 🎯 Personal Trivia
+## 🎯 Other Personal Trivia
 
 - 🏥 5+ years experience in **Operating Room nursing**
-- 🗣️ **Polyglot**: Native Portuguese, fluent French, high level English and conversational Italian
-- 👩👧👦 Managing two little ones
 - 🏆 Completed 12+ 42 projects while parenting infants
 - 💡 Signature Move: Writing clean code during nap times
 - � Proudest Coding Moment: Fixed memory leaks while breastfeeding
+- 👩👧👦 Made 42 Piscine with a Newborn
 
 <!-- Footer -->
 <div align="center">
