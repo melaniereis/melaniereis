@@ -12,7 +12,6 @@
 </div> 
 
 <!-- Profile Views Badge --> 
-<div align="center"> <p> <img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20views&color=0e75b6&style=flat" alt="melaniereis profile views" /> </p> </div>
 
 <img src="https://github.com/melaniereis/melaniereis/blob/main/mel.png?raw=true" width="200" style="flex: 1 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
