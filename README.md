@@ -6,9 +6,14 @@
 <div align="center" style="margin: 2em 0;"> 
   <img src="https://github.com/melaniereis/melaniereis/blob/main/mel.png?raw=true" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> 
   <h2>🏥 From Scalpel to Stack Overflow</h2> 
-  <p> 
-    <strong>OR Nurse</strong> transitioning through <strong>42 Porto's</strong> intensive program. Passionate about healthcare tech solutions with surgical precision. Multilingual mom managing two under three 👶👧 while coding. 
-  </p> 
+  
+- 🔭 I’m currently working as **OR Nurse** transitioning through *42 Porto's intensive program*  
+- 🌱 I’m currently learning **Low-Level Programming | C/C++ | Algorithms**  
+- 💬 Ask me about *Healthcare tech solutions | Surgical workflows | Career transitions | Mom Life*  
+- 🌎 I speak **Portuguese, French, English, and Italian**  
+- 👩👧👦 Mom fact: *Juggling code compilation with 2 under 3s' snack time*  
+- ⚡ Code confession: *Scrub in faster on memory leaks than in the OR 🩺➡️🐛*  
+- 📍 Based in **Portugal*️⃣
 </div> 
 
 
