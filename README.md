@@ -35,9 +35,13 @@
 ## 📈 Development Metrics
 
 <div align="center"> 
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melaniereis&theme=blueberry&background=0D1117&border=444)](https://git.io/streak-stats)
+  
   [![Melanie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=blueberry&include_all_commits=true&bg_color=0D1117)](https://github.com/melaniereis) 
+  
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=blueberry&bg_color=0D1117&langs_count=8)](https://github.com/melaniereis) 
+  
 </div>
 <!-- Projects Section -->
 
