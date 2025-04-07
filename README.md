@@ -11,11 +11,6 @@
   </p> 
 </div> 
 
-<!-- Profile Views Badge --> 
-
-<img src="https://github.com/melaniereis/melaniereis/blob/main/mel.png?raw=true" width="200" style="flex: 1 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-
-</div>
 
 <!-- Skills Section -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 1em 0;"> 
