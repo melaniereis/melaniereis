@@ -54,21 +54,38 @@
 
 <div align="center">
 
+#### 🔧 Core C Projects
+
 | Project | Description | Score | Technologies |
 |---------|-------------|-------|--------------|
 | **[Libft](https://github.com/melaniereis/libft)** | Custom C standard library implementation | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | `C` `Makefile` |
 | **[ft_printf](https://github.com/melaniereis/42_ft_printf)** | Replica of printf with bonus features | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C` `Variadic` |
 | **[Get_next_line](https://github.com/melaniereis/42_get_next_line)** | Line-by-line file reader | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | `C` `FD Management` |
-| **[Born2beroot](https://github.com/melaniereis/)** | Secure Linux server configuration | ![106/100](https://img.shields.io/badge/106%2F100-green) | `Linux` `SysAdmin` |
 | **[Push_swap](https://github.com/melaniereis/42_push_swap)** | Optimized sorting algorithm | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C` `Algorithms` |
 | **[So_long](https://github.com/melaniereis/42_so_long)** | 2D game with minimal moves | ![115/100](https://img.shields.io/badge/115%2F100-green) | `C` `MLX Graphics` |
 | **[Philosophers](https://github.com/melaniereis/42_philosophers)** | Multithreading/process solution | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C` `Multithreading` |
-| **[Minitalk](https://github.com/melaniereis/42_minitalk)** | Client-server communication | ![116/100](https://img.shields.io/badge/116%2F100-green) | `C` `Signals` |
-| **[Minishell](https://github.com/melaniereis/42_Minishell)** | Bash-like shell implementation | ![99/100](https://img.shields.io/badge/99%2F100-green) | `C` `Parsing` |
-| **[NetPractice](https://github.com/melaniereis/42_NetPractice)** | Network configuration exercises | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `Networking` `IP` |
-| **[Cub3D](https://github.com/m3reil3s/42_Cub3d)** | Raycasting 3D engine | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-blue) | `C` `Graphics` |
-| **[CPP Modules](https://github.com/melaniereis/42_CPP_Module00)** | Introduction to C++ concepts | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C++` `OOP` |
-| **[CPP Modules](https://github.com/melaniereis/42_CPP_Module01)** | C++ fundamentals series | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C++` `OOP` |
+| **[Minitalk](https://github.com/melaniereis/42_minitalk)** | Client-server communication using UNIX signals | ![116/100](https://img.shields.io/badge/116%2F100-green) | `C` `Signals` |
+| **[Minishell](https://github.com/melaniereis/42_Minishell)** | Bash-like shell implementation | ![99/100](https://img.shields.io/badge/99%2F100-green) | `C` `Parsing` `Built-ins` |
+| **[Cub3D](https://github.com/m3reil3s/42_Cub3d)** | Raycasting 3D engine | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | `C` `Graphics` `Raycasting` |
+
+#### 🛠️ Other Common Core Projects
+
+| Project | Description | Score | Technologies |
+|---------|-------------|-------|--------------|
+| **[Born2beroot](https://github.com/melaniereis/)** | Secure Linux server configuration | ![106/100](https://img.shields.io/badge/106%2F100-green) | `Linux` `SysAdmin` |
+| **[NetPractice](https://github.com/melaniereis/42_NetPractice)** | Network configuration exercises | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `Networking` `IP Routing` |
+
+#### 📦 C++ Modules Series
+
+| Module | Description | Score | Repository |
+|--------|-------------|-------|------------|
+| **Module 00** | Intro to C++, classes, and methods | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module00) |
+| **Module 01** | Memory allocation, references, file streams | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module01) |
+| **Module 02** | Fixed-point numbers and class inheritance | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module02) |
+| **Module 03** | Inheritance, polymorphism, and abstract classes | ![95/100](https://img.shields.io/badge/95%2F100-yellow) | [Repo](https://github.com/melaniereis/42_CPP_Module03) |
+| **Module 04** | Interface-based programming, deep copies | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module04) |
+| **Module 05** | *Currently working on it* | ![In Progress](https://img.shields.io/badge/In_Progress-blue) | – |
+
 
 </div>
 <!-- Connect Section -->
