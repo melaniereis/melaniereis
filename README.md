@@ -79,11 +79,11 @@
 
 | Module | Description | Score | Repository |
 |--------|-------------|-------|------------|
-| **Module 00** | Intro to C++, classes, and methods | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module00) |
-| **Module 01** | Memory allocation, references, file streams | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module01) |
-| **Module 02** | Fixed-point numbers and class inheritance | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module02) |
-| **Module 03** | Inheritance, polymorphism, and abstract classes | ![95/100](https://img.shields.io/badge/95%2F100-yellow) | [Repo](https://github.com/melaniereis/42_CPP_Module03) |
-| **Module 04** | Interface-based programming, deep copies | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/42_CPP_Module04) |
+| **Module 00** | Intro to C++, classes, and methods | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/CPP_Module00) |
+| **Module 01** | Memory allocation, references, file streams | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/CPP_Module01) |
+| **Module 02** | Fixed-point numbers and class inheritance | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/CPP_Module02) |
+| **Module 03** | Inheritance, polymorphism, and abstract classes | ![95/100](https://img.shields.io/badge/95%2F100-yellow) | [Repo](https://github.com/melaniereis/CPP_Module03) |
+| **Module 04** | Interface-based programming, deep copies | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | [Repo](https://github.com/melaniereis/CPP_Module04) |
 | **Module 05** | *Currently working on it* | ![In Progress](https://img.shields.io/badge/In_Progress-blue) | – |
 
 
