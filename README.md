@@ -66,7 +66,7 @@
 | **[Philosophers](https://github.com/melaniereis/42_philosophers)** | Multithreading/process solution | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | `C` `Multithreading` |
 | **[Minitalk](https://github.com/melaniereis/42_minitalk)** | Client-server communication using UNIX signals | ![116/100](https://img.shields.io/badge/116%2F100-green) | `C` `Signals` |
 | **[Minishell](https://github.com/melaniereis/42_Minishell)** | Bash-like shell implementation | ![99/100](https://img.shields.io/badge/99%2F100-green) | `C` `Parsing` `Built-ins` |
-| **[Cub3D](https://github.com/m3reil3s/42_Cub3d)** | Raycasting 3D engine | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | `C` `Graphics` `Raycasting` |
+| **[Cub3D](https://github.com/m3irel3s/42_Cub3d)** | Raycasting 3D engine | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | `C` `Graphics` `Raycasting` |
 
 #### 🛠️ Other Common Core Projects
 
