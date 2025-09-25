@@ -1,190 +1,323 @@
-# 👋 Hi, I'm Melanie Reis
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Melanie%20Reis&fontSize=90&animation=fadeIn" alt="Header Banner" width="100%"/>
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bytesized&size=28&duration=3000&pause=1000&width=600&lines=42+Porto+Common+Core+Graduate+(110%252F100);SEA%253AME+Automotive+Software+Starting+Oct+2025;OR+Nurse+to+Software+Engineer;Bridging+Health+Expertise+with+Tech+Innovation;Multilingual+Mother+of+Two+Toddlers" alt="Typing SVG">
+
+<!-- Animated Wave Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=280&section=header&text=Melanie%20Reis&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Where%20Healthcare%20Precision%20Meets%20Software%20Innovation&descAlignY=52&descSize=24" width="100%"/>
+
+<!-- Animated Typing with Gradient Background -->
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&random=false&width=900&height=50&lines=%F0%9F%8E%93+42+Porto+Elite+Graduate+(110%2F100);%F0%9F%9A%97+SEA%3AME+Automotive+Software+%7C+Starting+Oct+2025;%F0%9F%A9%BA+OR+Nurse+%E2%86%92+Software+Engineer;%F0%9F%8C%8D+Multilingual+Tech+Mom+Building+the+Future" alt="Typing SVG">
 </div>
 
-<div align="center" style="margin: 2em 0;">
-  <img src="https://github.com/melaniereis/melaniereis/blob/main/mel.png?raw=true" width="220" style="border-radius: 50%; box-shadow: 0 8px 32px rgba(0,0,0,0.3); border: 3px solid #2E8B57;">
-  <h2>🏥 From Operating Room Precision to Software Mastery</h2>
-  <p><strong>With 5 years as an Operating Room Nurse (2020–2025), I've mastered high-stakes decision-making and flawless execution. Now, as a 42 Porto graduate, I'm leveraging those skills in software engineering—passionate about health tech innovations while pursuing automotive systems.</strong></p>
-  <p>🔭 Wrapping up my nursing role this month to focus on tech full-time</p>
-  <p>🌱 Starting SEA:ME in October 2025, excited to blend mobility tech with health applications (e.g., in-vehicle health monitoring)</p>
-  <p>💡 Committed to health tech: Envisioning solutions like AI-assisted diagnostics or connected medical devices</p>
-  <p>🌎 Fluent in Portuguese, French, English, and Italian for global collaboration</p>
-  <p>👩‍👧‍👦 Achieved tech milestones while raising two toddlers under 3</p>
-  <p>📍 Portugal-based, open to remote/international opportunities</p>
+<!-- Profile Image with Animated Border -->
+<br>
+<img src="https://github.com/melaniereis/melaniereis/blob/main/mel.png?raw=true" width="200" style="border-radius: 50%;">
+
+<!-- Animated Stats Badges -->
+<br><br>
+<a href="https://github.com/melaniereis">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&labelColor=0b0f14&color=ff006e&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/melaniereis&style=for-the-badge" alt="Stars">
+</a>
+<a href="https://github.com/melaniereis?tab=repositories">
+  <img src="https://custom-icon-badges.demolab.com/badge/Repositories-30+-8338ec?style=for-the-badge&logo=repo&logoColor=white" alt="Repos">
+</a>
+<a href="#">
+  <img src="https://custom-icon-badges.demolab.com/badge/42_Score-110%2F100-3a86ff?style=for-the-badge&logo=star-fill&logoColor=white" alt="42 Score">
+</a>
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melaniereis&style=flat-square&color=blue" alt="Profile Views">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmelaniereis" alt="Hits">
-</p>
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔧 Technical Skills & Arsenal
+<br>
 
-<div align="center" style="margin: 2em 0;">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,docker,nginx,postgres,html,css,js" alt="Technical Stack" />
-</div>
-
+<!-- About Section with Glassmorphic Design -->
 <div align="center">
-  <p><strong>Expertise:</strong> Low-level programming (C/C++), system design, concurrency, networking, containerization, algorithms. Ready for safety-critical roles in health tech or automotive.</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF006E&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+About+Me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF006E&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+About+Me">
+  </picture>
 </div>
 
-## 📊 My GitHub Stats
+<table align="center">
+<tr>
+<td width="50%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=ffffff&icon_color=8338ec&ring_color=3a86ff&include_all_commits=true" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melaniereis&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+### 🚀 **The Journey**
 
-<div align="center">
-  <img src="https://github.com/melaniereis/melaniereis/blob/snake/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-## 📅 My Journey: From Healthcare to Tech
-
-```mermaid
-timeline
-    title Career Timeline
-    section Healthcare
-      2020 : Started as Surgical Nurse
-      2020-2025 : Surgical and OR Nurse - used to high-pressure surgeries
-    section Tech Transition
-      2024 : Joined 42 Porto Common Core
-      2025 : Completed Common Core with 110/100
-    section Future
-      Oct 2025 : Start SEA&#58;ME Specialization
-      2026+ : Innovate in Health-Tech & Automotive
-```
-
-## 🏆 42 Porto Projects: Proven Technical Prowess
-
-<details>
-<summary>🎯 Advanced Full-Stack & Web Projects</summary>
-
-| Project | Description | Score | Technologies | Repository |
-|---------|-------------|-------|--------------|------------|
-| **ft_transcendence** |  Web-based Pong gaming platform | ![110/100](https://img.shields.io/badge/110%2F100-brightgreen) | Docker, PostgreSQL, WebSockets | [Repo](https://github.com/melaniereis/ft_transcendence) |
-| **webserv** | Custom HTTP/1.1 server from scratch | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | C++, Sockets, HTTP | [Repo](https://github.com/melaniereis/webserv) |
-| **Inception** | Multi-service containerized infrastructure | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | Docker, Nginx, DB | [Repo](https://github.com/melaniereis/Inception) |
-
-</details>
-
-<details>
-<summary>⚙️ Systems, Graphics & Algorithms</summary>
-
-| Project | Description | Score | Technologies | Repository |
-|---------|-------------|-------|--------------|------------|
-| **cub3D** | 3D raycasting game engine | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | C, Raycasting, MLX | [Repo](https://github.com/m3irel3s/42_Cub3d) |
-| **minishell** | Custom shell with command parsing | ![99/100](https://img.shields.io/badge/99%2F100-green) | C, Parsing, Exec | [Repo](https://github.com/melaniereis/42_Minishell) |
-| **Philosophers** | Concurrency & deadlock prevention | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | C, Threads/Mutex | [Repo](https://github.com/melaniereis/42_philosophers) |
-| **push_swap** | Efficient stack sorting algorithm | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | C, Algorithms | [Repo](https://github.com/melaniereis/42_push_swap) |
-| **so_long** | 2D game with map validation | ![115/100](https://img.shields.io/badge/115%2F100-green) | C, Graphics, Pathfinding | [Repo](https://github.com/melaniereis/42_so_long) |
-| **minitalk** | Signal-based IPC system | ![116/100](https://img.shields.io/badge/116%2F100-green) | C, Signals | [Repo](https://github.com/melaniereis/42_minitalk) |
-
-</details>
-
-<details>
-<summary>📚 Foundations & C++ Mastery</summary>
-
-| Project/Module | Description | Score | Technologies | Repository |
-|----------------|-------------|-------|--------------|------------|
-| **CPP Module 09** | Advanced containers & algorithms | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | C++ | [Repo](https://github.com/melaniereis/CPP_Module09) |
-| **CPP Module 04** | Polymorphism & interfaces | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | C++ | [Repo](https://github.com/melaniereis/CPP_Module04) |
-| **Born2beroot** | Secure VM setup & monitoring | ![106/100](https://img.shields.io/badge/106%2F100-green) | Linux, SysAdmin | [Repo](https://github.com/melaniereis/Born2beroot) |
-| **NetPractice** | IP/TCP network configs | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | Networking | [Repo](https://github.com/melaniereis/42_NetPractice) |
-| **get_next_line** | Buffered file reading | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | C, I/O | [Repo](https://github.com/melaniereis/42_get_next_line) |
-| **ft_printf** | Formatted output function | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | C, Variadics | [Repo](https://github.com/melaniereis/42_ft_printf) |
-| **Libft** | Custom libc functions | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) | C | [Repo](https://github.com/melaniereis/libft) |
-
-*(C++ Modules 00–03, 05–08: All 95–100%. Full mastery of OOP, memory management, and advanced concepts.)*
-
-</details>
-
-## 🚀 Upcoming: SEA:ME Specialization (Oct 2025)
-
-<div align="center" style="margin: 2em 0; background: linear-gradient(135deg, #1a1a1a, #2d2d2d); padding: 2rem; border-radius: 15px; max-width: 800px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <p><strong>Software Engineering in Automotive & Mobility Ecosystems</strong>: Master-level focus on embedded systems for connected, safe mobility.</p>
-  <ul style="text-align: left; max-width: 600px;">
-    <li>🚗 Vehicle software architectures & RTOS</li>
-    <li>🔒 Functional safety (ISO 26262)</li>
-    <li>🤖 Autonomous systems & connectivity</li>
-  </ul>
-  <p>My health passion drives me to explore automotive-health fusions, like telematics for emergency response or wellness dashboards.</p>
-</div>
-
-## 💡 Why Hire Me? Unique Blend of Skills
-
-I'm seeking junior/mid-level Software Engineer roles in health tech, automotive, or mobility—where precision saves lives or drives innovation.
-
-| Nursing Superpower | → | Engineering Impact |
-|--------------------|---|--------------------|
-| Crisis management in OR | → | Robust, fault-tolerant systems |
-| Surgical accuracy & protocols | → | Clean code & quality assurance |
-| Team leadership under pressure | → | Agile collaboration & delivery |
-| Patient safety focus | → | Ethical, user-centric design |
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 2rem 0;">
-  <div style="background: linear-gradient(135deg, #1a1a1a, #2d2d2d); padding: 1.5rem; border-radius: 10px; border-left: 4px solid #2E8B57; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h4>🏆 Proven Resilience</h4>
-    <p>Top scores at 42 Porto while nursing full-time and parenting.</p>
-  </div>
-  <div style="background: linear-gradient(135deg, #1a1a1a, #2d2d2d); padding: 1.5rem; border-radius: 10px; border-left: 4px solid #4169E1; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h4>💻 Health-Tech Drive</h4>
-    <p>Eager for roles innovating at health-tech intersections.</p>
-  </div>
-  <div style="background: linear-gradient(135deg, #1a1a1a, #2d2d2d); padding: 1.5rem; border-radius: 10px; border-left: 4px solid #FF6B35; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h4>🌍 Adaptable Collaborator</h4>
-    <p>Multilingual, ready for diverse teams in Europe or beyond.</p>
-  </div>
-</div>
-
-## 🎉 Fun Facts & Superpowers
-
-<details>
-<summary>Click to reveal some interesting trivia!</summary>
-<ul>
-  <li>🍼 Completed 42 Piscine with a newborn—talk about multitasking!</li>
-  <li>🩺 Fixed memory leaks faster than scrubbing into the OR.</li>
-  <li>👩‍💻 Proudest moment: Balancing code compilations with snack times for two under 3.</li>
-  <li>🌟 Signature move: Writing clean code during nap times.</li>
-</ul>
-</details>
-
-## 🌐 Connect & Discuss Opportunities
-
-<div align="center" style="margin: 2em 0;">
-  <a href="https://www.linkedin.com/in/melanie-ferraz-reis-622229a5"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:melanie.ferraz@ua.pt"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://42porto.com"><img src="https://img.shields.io/badge/42_Porto-Profile-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Profile"></a>
-</div>
-
-<div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(135deg, #1a1a1a, #2d2d2d 100%); border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <p><strong>"Blending surgical precision with code craftsmanship to create life-enhancing tech."</strong></p>
-  <p>Open to Software Engineer positions—let's chat about how my background can add value to your team!</p>
-</div>
-
-```cpp
-// Ready to Engineer the Future
-class HealthTechEngineer {
-public:
-    HealthTechEngineer() : precision("Surgical"), passion("Health Innovation") {}
-    void innovate() {
-        return automotiveSafety + healthSolutions;
-    }
+```javascript
+const melanie = {
+  currentRole: "OR Nurse → Software Engineer",
+  education: "42 Porto Elite (110/100)",
+  nextStep: "SEA:ME Automotive Systems",
+  passion: ["HealthTech", "Innovation", "Safety"],
+  languages: ["PT", "FR", "EN", "IT"],
+  superpower: "Debugging while parenting toddlers"
 };
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" width="100%"/>
-</p>
+🔬 **5 years** saving lives in the OR  
+💻 **Now** building life-changing software  
+🎯 **Mission**: Bridge healthcare & technology  
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Skills Section -->
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8338EC&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Tech+Arsenal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8338EC&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Tech+Arsenal">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🎨 **Core Technologies**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark&perline=4" width="200"/>
+
+### 🛠️ **Tools & Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,postgres,vscode&theme=dark&perline=6" width="300"/>
+
+### 🌐 **Web & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark&perline=5" width="250"/>
+
+</div>
+
+<!-- Animated GitHub Stats -->
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3A86FF&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Performance+Metrics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3A86FF&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Performance+Metrics">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=ff006e&fire=ff006e&currStreakLabel=8338ec&currStreakNum=3a86ff&sideNums=3a86ff&sideLabels=8338ec" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=ffffff&langs_count=8" />
+</div>
+
+<!-- Activity Graph with Custom Theme -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=melaniereis&bg_color=0d1117&color=ffffff&line=ff006e&point=8338ec&area_color=3a86ff&area=true&hide_border=true" />
+</div>
+
+<!-- Trophy Section -->
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=melaniereis&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+<!-- Project Showcase -->
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF006E&center=true&vCenter=true&width=435&lines=%F0%9F%8F%86+Elite+Projects">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF006E&center=true&vCenter=true&width=435&lines=%F0%9F%8F%86+Elite+Projects">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=melaniereis&repo=ft_transcendence&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=8338ec)](https://github.com/melaniereis/ft_transcendence)
+
+**🎮 Full-Stack Gaming Platform**  
+`Docker` `PostgreSQL` `WebSockets`  
+⭐ **110/100**
+
+</td>
+<td width="50%" align="center">
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=m3irel3s&repo=42_Cub3d&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=8338ec)](https://github.com/m3irel3s/42_Cub3d)
+
+**🎯 3D Raycasting Engine**  
+`C` `Graphics` `Math`  
+⭐ **125/100**
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=melaniereis&repo=42_Minishell&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=8338ec)](https://github.com/melaniereis/42_Minishell)
+
+**🐚 Custom Shell**  
+`C` `System Programming` `Parsing`  
+⭐ **99/100**
+
+</td>
+<td width="50%" align="center">
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=melaniereis&repo=webserv&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=8338ec)](https://github.com/melaniereis/webserv)
+
+**🌐 HTTP Server**  
+`C++` `Sockets` `HTTP/1.1`  
+⭐ **100/100**
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Journey Timeline -->
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8338EC&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A4%EF%B8%8F+Career+Evolution">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8338EC&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A4%EF%B8%8F+Career+Evolution">
+  </picture>
+</div>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff006e', 'primaryTextColor': '#fff', 'primaryBorderColor': '#8338ec', 'lineColor': '#3a86ff', 'secondaryColor': '#8338ec', 'tertiaryColor': '#0d1117', 'background': '#0d1117', 'mainBkg': '#0d1117', 'secondBkg': '#1a1a2e', 'tertiaryBkg': '#16213e'}}}%%
+timeline
+    title From Healthcare Hero to Tech Innovator
+    
+    2020-2025 : OR Nurse
+               : Saving Lives
+               : Crisis Management Expert
+    
+    2024      : 42 Porto Journey
+               : Discovered Tech Passion
+               : While Raising Toddlers
+    
+    2025      : Common Core Elite
+               : 110/100 Score
+               : Full-Stack Mastery
+    
+    Oct 2025  : SEA:ME Program
+               : Automotive Software
+               : Health-Tech Vision
+    
+    2026+     : The Future
+               : Health-Tech Innovation
+               : Bridging Two Worlds
+```
+
+<!-- What Makes Me Unique -->
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=%F0%9F%92%8E+Why+I'm+Different">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=%F0%9F%92%8E+Why+I'm+Different">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+  
+**🏥 Healthcare DNA**  
+5 years in high-stakes OR  
+Precision is my default  
+Lives depend on quality  
+
+</td>
+<td align="center" width="33%">
+
+**🚀 Tech Excellence**  
+42 Porto Top Graduate  
+Low-level to Full-Stack  
+Safety-critical ready  
+
+</td>
+<td align="center" width="33%">
+
+**🌍 Global Mindset**  
+4 languages fluent  
+Cross-cultural expert  
+Remote-first ready  
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Connect Section -->
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF006E&center=true&vCenter=true&width=435&lines=%F0%9F%A4%9D+Let's+Connect">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF006E&center=true&vCenter=true&width=435&lines=%F0%9F%A4%9D+Let's+Connect">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanie.ferraz@ua.pt)
+[![42 Profile](https://img.shields.io/badge/42_Porto-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/meferraz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/melaniereis)
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 💭 **Open to Opportunities**
+
+```diff
++ Software Engineer roles in Health-Tech or Automotive
++ Remote/Hybrid positions across Europe
++ Innovative projects that save or improve lives
++ Teams that value precision and quality
+```
+
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melaniereis/melaniereis/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melaniereis/melaniereis/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/melaniereis/melaniereis/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Quote -->
+<br>
+
+<div align="center">
+
+### 🌟 **_"Transforming surgical precision into code that heals the world"_** 🌟
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,50:8338ec,100:ff006e&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=melaniereis&color=ff006e&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
