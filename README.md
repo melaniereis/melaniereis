@@ -1,256 +1,277 @@
-# 
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF6B9D&text=MELANIE%20REIS&height=150&fontSize=60&desc=From%20Surgical%20Precision%20to%20Software%20Excellence&descAlignY=75&descAlign=50&animation=twinkling&fontAlignY=45" width="100%" />
+<!-- HERO SECTION WITH ANIMATED GRADIENT -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Melanie%20Reis&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Surgical%20Precision%20Meets%20Code%20Craftsmanship&descAlignY=58&descAlign=50" />
+
+<!-- DYNAMIC INTRO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=🩺+Surgical+Nurse+with+5+Years+OR+Experience;👩‍💻+42+Porto+Graduate+(110%2F100)+•+SEA%3AME+Starting+Oct+2025;💪+Completed+Piscine+with+a+Newborn+•+Mother+of+Two+Toddlers)](https://git.io/typing-svg)
+
+<!-- PROFILE BADGES -->
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Operating_Room-5_Years-FF6B9D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4em0tMS01aDJ2Mmgtdi0yem0wLThoMnY2aC0yVjd6Ii8+PC9zdmc+&logoColor=white" alt="Operating Room"></a>
+  <a href="#"><img src="https://img.shields.io/badge/42_Porto-110%2F100-FEE77A?style=for-the-badge&logo=42&logoColor=black" alt="42 Score"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Languages-PT_FR_EN_IT-C9E4DE?style=for-the-badge&logo=google-translate&logoColor=black" alt="Languages"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Portugal_🇵🇹-55CBCD?style=for-the-badge&logo=google-maps&logoColor=black" alt="Location"></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🩺+Surgical+Nurse+with+5+Years+OR+Experience;💻+42+Porto+Graduate+(110/100);🚀+SEA:ME+Starting+October+2025;👶+Did+the+Piscine+with+a+Newborn!;🌍+Speaking+4+Languages+Fluently&font=Fira%20Code&center=true&width=600&height=50&color=FEE77A&vCenter=true&size=20&pause=2000" />
-</p>
+<!-- ANIMATED PROFILE PICTURE -->
+<img src="https://github.com/melaniereis/melaniereis/blob/main/mel.png?raw=true" width="200" alt="Melanie">
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/melanie-ferraz-reis-622229a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:melanie.ferraz@ua.pt"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" /></a>
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-</div>
+<!-- ABOUT ME SECTION -->
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=melaniereis&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9E4DE&layout=compact" alt="Coding Stats">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"> My Unique Story
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
-
-```ruby
-class MelanieReis
-  def initialize
-    @current_role = "Surgical Nurse → Software Engineer"
-    @location = "Ovar, Portugal 🇵🇹"
-    @languages = ["Portuguese", "French", "English", "Italian"]
-    @kids = 2 # Both under 3! 👶👶
-  end
-
-  def surgical_background
-    {
-      years: 5,
-      environment: "Operating Room",
-      surgeries: "500+",
-      skills: ["Life-saving precision", "Crisis management", 
-               "Zero-error mindset", "Team coordination"]
-    }
-  end
-
-  def tech_journey
-    {
-      "42_porto" => "110/100 - Completed!",
-      "highlight" => "Piscine with newborn baby",
-      "best_scores" => ["cub3D: 125/100", "get_next_line: 125/100"],
-      "next_adventure" => "SEA:ME Automotive - Oct 2025"
-    }
-  end
-
-  def superpowers
-    ["Debugging while breastfeeding 🍼",
-     "Code reviews between surgeries 🏥", 
-     "Git commits during nap time 😴"]
-  end
-end
+```javascript
+const melanie = {
+    background: {
+        current: "Surgical Nurse → Software Engineer",
+        experience: "5 years in Operating Room",
+        achievements: [
+            "Handled 500+ critical surgeries",
+            "42 Piscine with newborn baby 👶",
+            "Raising 2 toddlers while coding"
+        ]
+    },
+    
+    education: {
+        "42_Porto": {
+            status: "Completed Common Core",
+            score: "110/100",
+            highlight: "Top projects: 125/100 scores"
+        },
+        "SEA:ME": {
+            start: "October 2025",
+            focus: "Automotive Software Engineering"
+        }
+    },
+    
+    skills: {
+        fromHealthcare: ["Precision", "Crisis Management", "Team Leadership"],
+        programming: ["C", "C++", "Python", "Bash"],
+        tools: ["Docker", "Git", "Linux", "PostgreSQL"],
+        languages: ["Portuguese", "French", "English", "Italian"]
+    },
+    
+    vision: "Bridging healthcare expertise with tech innovation"
+};
 ```
 
-<br clear="right"/>
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Technical Arsenal
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-### 🎯 Core Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### Core Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
+</p>
 
-### ⚙️ Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+#### Tools & Systems  
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,nginx,postgres,vim" />
+</p>
 
-### 🌐 Web Technologies  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+#### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" />
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38d8.png" width="30"> Elite 42 Porto Projects
+### 🏆 Highlight Projects at 42 Porto
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏆 Top Scoring Projects</h3>
-    </td>
-    <td align="center" width="50%">
-      <h3>💪 Complex Challenges</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      
-| Project | Score | Tech |
-|---------|-------|------|
-| **cub3D** | <img src="https://img.shields.io/badge/125%2F100-gold?style=flat-square"> | 3D Raycasting |
-| **get_next_line** | <img src="https://img.shields.io/badge/125%2F100-gold?style=flat-square"> | File I/O |
-| **Libft** | <img src="https://img.shields.io/badge/125%2F100-gold?style=flat-square"> | C Library |
-| **minitalk** | <img src="https://img.shields.io/badge/116%2F100-brightgreen?style=flat-square"> | Signals |
-| **so_long** | <img src="https://img.shields.io/badge/115%2F100-brightgreen?style=flat-square"> | 2D Game |
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</td>
-<td>
+#### 🎮 **Advanced Projects**
 
-| Project | Score | Stack |
-|---------|-------|-------|
-| **ft_transcendence** | <img src="https://img.shields.io/badge/110%2F100-brightgreen?style=flat-square"> | Full-Stack |
-| **webserv** | <img src="https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square"> | HTTP Server |
-| **Inception** | <img src="https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square"> | Docker |
-| **minishell** | <img src="https://img.shields.io/badge/99%2F100-green?style=flat-square"> | Shell |
-| **Philosophers** | <img src="https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square"> | Threading |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melaniereis&repo=ft_transcendence&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9E4DE&icon_color=FEE77A)](https://github.com/melaniereis/ft_transcendence)
+
+**Full-Stack Gaming Platform**  
+`Docker` `PostgreSQL` `WebSockets`  
+⭐ Score: **110/100**
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m3irel3s&repo=42_Cub3d&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9E4DE&icon_color=FEE77A)](https://github.com/m3irel3s/42_Cub3d)
+
+**3D Raycasting Game Engine**  
+`C` `Graphics` `Mathematics`  
+⭐ Score: **125/100**
 
 </td>
-  </tr>
+<td width="50%" valign="top">
+
+#### ⚙️ **System Programming**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melaniereis&repo=42_Minishell&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9E4DE&icon_color=FEE77A)](https://github.com/melaniereis/42_Minishell)
+
+**Custom Shell Implementation**  
+`C` `Process Management` `Parsing`  
+⭐ Score: **99/100**
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melaniereis&repo=webserv&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9E4DE&icon_color=FEE77A)](https://github.com/melaniereis/webserv)
+
+**HTTP/1.1 Server**  
+`C++` `Sockets` `Network Programming`  
+⭐ Score: **100/100**
+
+</td>
+</tr>
 </table>
+</div>
 
 <details>
-<summary><b>🔍 View Complete Project List (20+ projects)</b></summary>
-<br>
+<summary><b>📂 See All 20+ Projects</b></summary>
 
-- ✅ **All C++ Modules (00-09)**: OOP mastery, STL, advanced concepts `95-100/100`
-- ✅ **push_swap**: Optimized sorting algorithm `100/100`
-- ✅ **Born2beroot**: System administration & security `106/100`
-- ✅ **NetPractice**: Network configuration `100/100`
-- ✅ **ft_printf**: Printf reimplementation `100/100`
+| Project | Description | Score | Tech Stack |
+|---------|-------------|-------|------------|
+| **Inception** | Multi-container infrastructure | 100/100 | Docker, Nginx, MariaDB |
+| **Philosophers** | Dining philosophers problem | 100/100 | C, Threading, Mutex |
+| **push_swap** | Stack sorting algorithm | 100/100 | C, Algorithms |
+| **so_long** | 2D game with pathfinding | 115/100 | C, Graphics, MLX |
+| **minitalk** | Signal-based communication | 116/100 | C, UNIX Signals |
+| **CPP Modules** | Complete C++ mastery | 95-100/100 | C++, OOP, STL |
+| **Born2beroot** | System administration | 106/100 | Linux, Security |
+| **get_next_line** | File reading utility | 125/100 | C, I/O |
+| **ft_printf** | Printf recreation | 100/100 | C, Variadic Functions |
+| **Libft** | C library | 125/100 | C |
 
 </details>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> GitHub Stats That Matter
+---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FEE77A" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=dracula&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FEE77A&fire=FF6B9D&currStreakLabel=FEE77A" />
-</p>
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melaniereis&bg_color=0d1117&color=FF6B9D&line=FEE77A&point=C9E4DE&area=true&hide_border=true" width="95%">
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9E4DE&icon_color=FEE77A"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9E4DE"/>
+</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Why I'm Different
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=radical&hide_border=true&background=0D1117&stroke=C9E4DE&ring=FF6B9D&fire=FEE77A&currStreakLabel=FF6B9D&currStreakNum=C9E4DE&sideNums=C9E4DE&sideLabels=FF6B9D&dates=C9E4DE" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=melaniereis&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+### 🚀 My Unique Value Proposition
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🏥 **OR Precision**
-<img src="https://user-images.githubusercontent.com/74038190/216654116-7de0ca4b-0f89-40c1-bae5-92c5025aa449.gif" width="100">
+<img width="75" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-**Zero bugs is my baseline**
+**Surgical Precision**
 
-In surgery, there's no "it works on my machine." Every line of code I write has the precision of a surgical incision.
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 **Problem Solving**
-<img src="https://user-images.githubusercontent.com/74038190/216654125-e5ff8d1d-8689-42fd-be6c-d430ca2c8a2f.gif" width="100">
-
-**Crisis? I thrive there**
-
-500+ surgeries taught me to debug under pressure. Completed 42 Piscine with a newborn? That's my normal Tuesday.
+5 years in OR taught me that bugs in production are like complications in surgery - **unacceptable**. I write code with the same precision I handled surgical instruments.
 
 </td>
 <td width="33%" align="center">
 
-### 🚀 **Rapid Learning**
-<img src="https://user-images.githubusercontent.com/74038190/216655818-d8abb33c-1588-465b-856e-f66559eebc38.gif" width="100">
+<img width="75" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
 
-**From scrubs to scripts**
+**Problem Solver**
 
-Mastered C/C++ while working full-time and raising toddlers. SEA:ME is next. I don't just learn—I excel.
+From emergency surgeries to debugging at 3 AM while feeding a baby - I thrive under pressure and find solutions when others see obstacles.
+
+</td>
+<td width="33%" align="center">
+
+<img width="75" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+**Continuous Learner**
+
+Completed 42's intense curriculum while working as a surgical nurse and raising two toddlers. Currently preparing for SEA:ME specialization.
 
 </td>
 </tr>
 </table>
 
-## <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e3d-0d3e-44a9-b19f-5cf5f0ac7788.gif" width="30"> Next Chapter: SEA:ME
+---
+
+### 🎯 What I'm Looking For
 
 <div align="center">
 
-### 🚗 **Software Engineering in Automotive & Mobility Ecosystems**
-**Starting October 2025**
-
-<img src="https://img.shields.io/badge/Focus-Embedded_Systems-FF6B9D?style=for-the-badge">
-<img src="https://img.shields.io/badge/Vision-Health_Tech_Integration-FEE77A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Goal-Safety_Critical_Software-C9E4DE?style=for-the-badge">
-
-#### My Vision: Where Healthcare Meets Mobility
-- **In-vehicle health monitoring** for elderly drivers
-- **Emergency response systems** with real-time vitals
-- **Telemedicine integration** in autonomous vehicles
-- **Driver wellness analytics** preventing accidents
+```diff
++ Junior/Mid Software Engineering roles
++ Health-Tech or Automotive industry preferred
++ Companies valuing precision and quality
++ Remote/Hybrid opportunities in Europe
++ Teams where my unique background adds value
+```
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-90c9bd0c7700.png" width="30"> Fun Facts
+---
 
-<table align="center">
-<tr>
-<td>🍼 Debugged segfaults while breastfeeding</td>
-<td>🌍 Code in 4 human languages + 5 programming ones</td>
-</tr>
-<tr>
-<td>⏰ Best code written between 11 PM - 3 AM</td>
-<td>☕ Coffee consumption rivals a small tech startup</td>
-</tr>
-<tr>
-<td>👶 Toddlers think "Mommy fixes computers"</td>
-<td>🏥 Colleagues think I'm "the tech nurse"</td>
-</tr>
-</table>
-
-## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.gif" width="30"> Let's Build Something Amazing
+### 🌟 Fun Facts
 
 <div align="center">
+<table>
+<tr>
+<td>👶 Coded through the 42 Piscine with a newborn</td>
+<td>🌍 Fluent in 4 languages</td>
+<td>🏥 Managed 500+ surgeries</td>
+</tr>
+<tr>
+<td>💻 Debug between diaper changes</td>
+<td>☕ Coffee is my compiler fuel</td>
+<td>🎯 Zero bugs is my OR mindset</td>
+</tr>
+</table>
+</div>
 
-### 💼 **Open to Opportunities**
+---
 
-```javascript
-const idealRole = {
-  position: ["Software Engineer", "Backend Developer", "Full-Stack Developer"],
-  industries: ["HealthTech", "MedTech", "Automotive", "Safety-Critical Systems"],
-  location: ["Portugal", "Remote", "Hybrid"],
-  values: ["Innovation", "Precision", "Impact", "Growth"],
-  start: "Available Now"
-};
-```
+### 📬 Let's Connect!
 
-<br>
+<div align="center">
+  
+**I'm passionate about opportunities where precision saves lives and code makes a difference.**
 
-<a href="https://www.linkedin.com/in/melanie-ferraz-reis-622229a5"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:melanie.ferraz@ua.pt"><img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/melaniereis"><img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/melanie-ferraz-reis-622229a5">
+  <img src="https://img.shields.io/badge/-Melanie_Reis-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:melanie.ferraz@ua.pt">
+  <img src="https://img.shields.io/badge/-melanie.ferraz@ua.pt-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/melaniereis">
+  <img src="https://img.shields.io/badge/-melaniereis-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=FF6B9D&style=for-the-badge">
-
-### 💭 **"From saving lives in the OR to building life-changing software"**
+<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20views&color=FF6B9D&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%">
+---
+
+<div align="center">
+  
+### 💭 Closing Thought
+
+***"In the OR, precision saves lives. In code, precision creates exceptional software.***  
+***I bring both worlds together."***
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=100&section=footer" />
+
+</div>
