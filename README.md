@@ -2,7 +2,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Melanie%20Reis&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=From%20Surgery%20to%20Software%20Engineering&descAlign=50&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=200&section=header&text=Melanie%20Reis&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=From%20Surgery%20to%20Software%20Engineering&descAlign=50&descAlignY=60&anim<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=120&section=footer" />
+
+### 💭 *"I approach code with the same precision as surgery—focused, reliable, and resilient."*
+
+**Ready to build the future of HealthTech and Automotive together?** 🚀
+
+</div>eIn" />
+
+</div>
 
 </div>
 
@@ -45,6 +55,8 @@
 </td>
 </tr>
 </table>
+
+<details>
 <summary><b>💻 View the Code Behind the Journey</b></summary>
 
 <br>
@@ -142,17 +154,21 @@ const achievement = {
 
 | Project               | Score       | Skills                                     | Complexity    |
 |:---------------------:|:-----------:|:-------------------------------------------|:-------------:|
-| **minishell**         | `99/100`    | Shell implementation, process management   | 🔴 High       |
-| **cub3D**             | `125/100`   | 3D graphics, raycasting, memory management | 🔴 High       |
-| **webserv**           | `100/100`   | HTTP protocol, concurrency, parsing        | 🔴 High       |
-| **ft_transcendence**  | `110/100`   | Full-stack, WebSockets, real-time          | 🔴 High       |
-| **Inception**         | `100/100`   | Docker, DevOps, containers                 | 🟡 Medium     |
-| **Philosophers**      | `100/100`   | Threading, synchronization                 | 🟡 Medium     |
-| **push_swap**         | `100/100`   | Algorithm optimization, sorting            | 🟡 Medium     |
-| **so_long**           | `115/100`   | 2D game development                        | 🟡 Medium     |
-| **minitalk**          | `116/100`   | UNIX signals, IPC                          | 🟡 Medium     |
-| **Born2beroot**       | `106/100`   | System administration                      | 🟢 Basic      |
-| **CPP Modules 00-09** | `95-100/100`| OOP, templates, STL                        | 🟡 Medium     |
+| [**minishell**](https://github.com/melaniereis/42_Minishell) | `99/100`    | Shell implementation, process management   | 🔴 High       |
+| [**cub3D**](https://github.com/melaniereis/42_Cub3d)         | `125/100`   | 3D graphics, raycasting, memory management | 🔴 High       |
+| [**webserv**](https://github.com/melaniereis/42_Webserv)  | `100/100`   | HTTP protocol, concurrency, parsing        | 🔴 High       |
+| [**ft_transcendence**](https://github.com/melaniereis/ft_transcendence) | `110/100`   | Full-stack, WebSockets, real-time          | 🔴 High       |
+| [**Inception**](https://github.com/melaniereis/42_inception) | `100/100`   | Docker, DevOps, containers                 | 🟡 Medium     |
+| [**Philosophers**](https://github.com/melaniereis/42_philosophers) | `100/100`   | Threading, synchronization                 | 🟡 Medium     |
+| [**push_swap**](https://github.com/melaniereis/42_push_swap) | `100/100`   | Algorithm optimization, sorting            | 🟡 Medium     |
+| [**so_long**](https://github.com/melaniereis/42_so_long) | `115/100`   | 2D game development                        | 🟡 Medium     |
+| [**minitalk**](https://github.com/melaniereis/42_minitalk) | `116/100`   | UNIX signals, IPC                          | 🟡 Medium     |
+| [**ft_printf**](https://github.com/melaniereis/42_ft_printf) | `100/100`   | Variadic functions, formatted output       | 🟡 Medium     |
+| [**get_next_line**](https://github.com/melaniereis/42_get_next_line) | `125/100`   | File I/O, buffer management                | 🟡 Medium     |
+| [**libft**](https://github.com/melaniereis/42_libft)     | `125/100`   | C standard library implementation          | 🟢 Basic      |
+| [**Born2beroot**](https://github.com/melaniereis/42_Born2beRoot) | `106/100`   | System administration                      | 🟢 Basic      |
+| [**NetPractice**](https://github.com/melaniereis/42_NetPractice) | `100/100`   | Network configuration, TCP/IP              | 🟢 Basic      |
+| [**CPP Modules 00-09**](https://github.com/melaniereis/CPP_Module00) | `95-100/100`| OOP, templates, STL                        | 🟡 Medium     |
 
 **🏆 Achievement:** Completed all core projects—some with retries—while balancing healthcare and family.
 
