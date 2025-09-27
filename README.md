@@ -1,250 +1,270 @@
-# 🔬→💻 **From Healthcare to Software Engineering**
+# 
 
 <div align="center">
+
+<!-- Elegant Hero Section with Responsive SVG -->
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="elegantGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D3748;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#4A5568;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#718096;stop-opacity:1" />
+    </linearGradient>
+  </defs>
   
-<!-- Dynamic animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,3,20&height=300&section=header&text=Melanie%20Reis&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=From%20Surgery%20to%20Code%20|%20Precision%20Engineering%20|%205%20Years%20Healthcare&descAlignY=55&descAlign=50" />
-
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🩺+5+Years+Surgical+Nurse+%7C+500%2B+Surgeries;💻+42+Porto+Graduate+%7C+110%2F100+Score;👶+Coded+through+pregnancy+%26+newborn;🚀+SEA:ME+Automotive+%7C+Oct+2025;🌍+PT+•+FR+•+EN+•+IT+•+Code;⚡+Zero-error+mindset+%7C+Life-critical+precision&font=JetBrains+Mono&size=24&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=1000&height=120" />
-
-</div>
-
----
-
-## 🌟 **About Me**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="300"/>
-      </td>
-      <td width="60%">
-
-```typescript
-const developer: DeveloperProfile = {
-  name: "Melanie Reis",
-  location: "Ovar, Portugal 🇵🇹",
-  background: {
-    healthcare: "5 years surgical nurse",
-    surgeries: "500+ completed",
-    errorRate: 0,
-    currentRole: "OR & Anesthesia"
-  },
-  coding: {
-    school: "42 Porto Graduate",
-    finalScore: "110/100",
-    specialization: "Systems Programming",
-    nextStep: "SEA:ME Automotive"
-  },
-  languages: ["Portuguese", "French", "English", "Italian", "C++"],
-  philosophy: "Applying surgical precision to reliable software",
-  motivation: "Building technology that saves lives"
-};
-```
-
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 **My Journey**
-
-<div align="center">
-
-### 🏥 **Healthcare → Code**
-
-```mermaid
-timeline
-    title My Professional Evolution
-    2020 : Started as OR Nurse
-         : Anesthesia & Surgery
-         : High-pressure environment
-    2023 : Discovered Programming
-         : Started 42 School
-         : Coding while pregnant
-    2024 : 42 Porto Graduate
-         : 110/100 Final Score
-         : 20+ projects completed  
-    2025 : Career Transition
-         : Joining SEA:ME
-         : Automotive Engineering
-```
-
-</div>
-
----
-
-## 💻 **42 Porto Achievements**
-
-<div align="center">
-
-### 🏆 **Project Hall of Fame**
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**`cub3D`**
-<br>
-<img src="https://img.shields.io/badge/Score-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
-<br>
-<sub>3D Raycasting Engine</sub>
-
-</td>
-<td align="center" width="20%">
-
-**`transcendence`**
-<br>
-<img src="https://img.shields.io/badge/Score-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
-<br>
-<sub>Full-Stack Pong Game</sub>
-
-</td>
-<td align="center" width="20%">
-
-**`webserv`**
-<br>
-<img src="https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge&logo=42&logoColor=white" />
-<br>
-<sub>HTTP Server</sub>
-
-</td>
-<td align="center" width="20%">
-
-**`minishell`**
-<br>
-<img src="https://img.shields.io/badge/Score-99%2F100-success?style=for-the-badge&logo=42&logoColor=white" />
-<br>
-<sub>Bash Implementation</sub>
-
-</td>
-<td align="center" width="20%">
-
-**`get_next_line`**
-<br>
-<img src="https://img.shields.io/badge/Score-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
-<br>
-<sub>File Reading Function</sub>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📂 View All Projects Portfolio</b></summary>
-
-<br>
-
-<div align="left">
-
-| **Project** | **Score** | **Skills Developed** | **Complexity** |
-|:------------|:---------:|:-------------------|:--------------:|
-| **`ft_transcendence`** | `110/100` | Full-Stack Web Development, WebSockets | 🔴 High |
-| **`cub3D`** | `125/100` | 3D Graphics, Raycasting, Game Development | 🔴 High |
-| **`webserv`** | `100/100` | HTTP Protocol, Server Architecture | 🔴 High |
-| **`minishell`** | `99/100` | System Programming, Process Management | 🔴 High |
-| **`Inception`** | `100/100` | Docker, DevOps, Container Orchestration | 🟡 Medium |
-| **`Philosophers`** | `100/100` | Threading, Synchronization, Deadlock Prevention | 🟡 Medium |
-| **`push_swap`** | `100/100` | Algorithm Optimization, Sorting | 🟡 Medium |
-| **`so_long`** | `115/100` | 2D Game Development, Graphics | 🟡 Medium |
-| **`minitalk`** | `116/100` | UNIX Signals, Inter-Process Communication | 🟡 Medium |
-| **`get_next_line`** | `125/100` | File I/O, Memory Management | 🟢 Basic |
-| **`ft_printf`** | `100/100` | Variadic Functions, String Formatting | 🟢 Basic |
-| **`libft`** | `125/100` | C Standard Library, String Manipulation | 🟢 Basic |
-| **`Born2beroot`** | `106/100` | System Administration, Linux | 🟢 Basic |
-| **`NetPractice`** | `100/100` | Network Configuration, TCP/IP | 🟢 Basic |
-| **CPP Modules (00-09)** | `95-100/100` | Object-Oriented Programming, C++ | 🟡 Medium |
-
-</div>
-
-</details>
-
-</div>
-
----
-
-## 🛠️ **Technical Arsenal**
-
-<div align="center">
-
-### 💎 **Core Technologies**
-
-<table>
-<tr>
-<td align="center">
-
-**Systems Programming**
-<br><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash" />
-<br>
-<sub>C/C++ • Linux • Shell • Systems</sub>
-
-</td>
-<td align="center">
-
-**Web Development**
-<br><br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
-<br>
-<sub>JavaScript • TypeScript • React • Node.js</sub>
-
-</td>
-<td align="center">
-
-**DevOps & Tools**
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,postgres,nginx,git" />
-<br>
-<sub>Docker • PostgreSQL • Nginx • Git</sub>
-
-</td>
-<td align="center">
-
-**Specialized Skills**
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,html,css,markdown" />
-<br>
-<sub>Python • HTML • CSS • Documentation</sub>
-
-</td>
-</tr>
-</table>
-
-### 🔧 **Professional Strengths**
-
-```javascript
-const uniqueSkills = {
-  medical: {
-    experience: "5 years in surgery",
-    surgeries: "500+ completed",
-    specialization: "OR & Anesthesia",
-    skills: ["Crisis Management", "Precision Under Pressure", "Team Coordination"]
-  },
+  <rect width="100%" height="100%" fill="url(#elegantGradient)" rx="20"/>
   
-  technical: {
-    education: "42 School Graduate",
-    score: "110/100",
-    projects: 20,
-    specialization: ["Systems Programming", "Web Development", "3D Graphics"]
-  },
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; justify-content: center; height: 100%; color: white; font-family: 'Inter', 'Segoe UI', sans-serif;">
+      <div style="text-align: center; padding: 20px;">
+        <h1 style="font-size: clamp(28px, 5vw, 42px); font-weight: 300; margin: 0; letter-spacing: -0.02em;">
+          <span style="color: #E2E8F0;">Melanie Reis</span>
+        </h1>
+        <p style="font-size: clamp(14px, 2.5vw, 18px); margin: 8px 0 0 0; opacity: 0.8; font-weight: 300;">
+          From Surgery to Software Engineering
+        </p>
+        <div style="margin-top: 16px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+          <span style="font-size: 12px; background: rgba(255,255,255,0.1); padding: 6px 12px; border-radius: 20px;">🩺 5 Years Healthcare</span>
+          <span style="font-size: 12px; background: rgba(255,255,255,0.1); padding: 6px 12px; border-radius: 20px;">💻 42 Graduate</span>
+          <span style="font-size: 12px; background: rgba(255,255,255,0.1); padding: 6px 12px; border-radius: 20px;">👶 Mother Developer</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+</div>
+
+---
+
+## The Story
+
+<div align="center">
+
+<svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .story-container {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 40px;
+          padding: 40px;
+          height: 100%;
+          align-items: center;
+          font-family: 'Inter', 'Segoe UI', sans-serif;
+        }
+        .story-text {
+          color: #2D3748;
+        }
+        .story-text h3 {
+          color: #1A202C;
+          font-size: 24px;
+          font-weight: 500;
+          margin: 0 0 16px 0;
+        }
+        .story-text p {
+          font-size: 15px;
+          line-height: 1.7;
+          color: #4A5568;
+          margin: 0 0 16px 0;
+        }
+        .highlight {
+          color: #2B6CB0;
+          font-weight: 500;
+        }
+        .code-elegant {
+          background: #F7FAFC;
+          border: 1px solid #E2E8F0;
+          border-radius: 12px;
+          padding: 24px;
+          font-family: 'JetBrains Mono', monospace;
+          font-size: 13px;
+          line-height: 1.6;
+          color: #2D3748;
+        }
+        .code-keyword { color: #805AD5; }
+        .code-string { color: #38A169; }
+        .code-comment { color: #718096; }
+        
+        @media (max-width: 768px) {
+          .story-container {
+            grid-template-columns: 1fr;
+            gap: 24px;
+            padding: 24px;
+          }
+          .story-text h3 { font-size: 20px; }
+          .code-elegant { font-size: 12px; padding: 16px; }
+        }
+      </style>
+      
+      <div class="story-container">
+        <div class="story-text">
+          <h3>The Impossible Journey</h3>
+          <p>
+            <strong class="highlight">September 2024:</strong> Started 42 School's intensive Piscine with a 1-month-old newborn and 2-year-old son.
+          </p>
+          <p>
+            While balancing sleepless nights, feeding schedules, and a demanding surgical nursing career, I discovered an unshakeable determination to master programming.
+          </p>
+          <p>
+            <strong class="highlight">Result:</strong> 42 Porto Graduate with 110/100 final score.
+          </p>
+        </div>
+        
+        <div class="code-elegant">
+<span class="code-comment">// The journey that seemed impossible</span>
+<span class="code-keyword">const</span> achievement = {
+  <span class="code-string">timeline</span>: <span class="code-string">"11 months"</span>,
+  <span class="code-string">challenges</span>: [
+    <span class="code-string">"1-month newborn"</span>,
+    <span class="code-string">"2-year-old toddler"</span>,
+    <span class="code-string">"Full-time surgical nurse"</span>,
+    <span class="code-string">"2-3 hours sleep/night"</span>
+  ],
+  <span class="code-string">score</span>: <span class="code-string">"110/100"</span>,
   
-  personal: {
-    languages: ["PT", "FR", "EN", "IT"],
-    achievements: ["Coded during pregnancy", "Balanced family & studies"],
-    mindset: ["Zero-error approach", "Continuous learning", "Adaptability"]
+  <span class="code-keyword">getInspiration</span>() {
+    <span class="code-keyword">return</span> <span class="code-string">"With determination, "</span> +
+           <span class="code-string">"anything is possible"</span>;
   }
 };
-```
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects Showcase**
+## Professional Journey
+
+<div align="center">
+
+<svg width="100%" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .timeline-elegant {
+          padding: 40px;
+          font-family: 'Inter', 'Segoe UI', sans-serif;
+        }
+        .timeline-item {
+          display: grid;
+          grid-template-columns: 120px 4px 1fr;
+          gap: 24px;
+          margin-bottom: 32px;
+          align-items: start;
+        }
+        .timeline-date {
+          text-align: right;
+          color: #718096;
+          font-size: 14px;
+          font-weight: 500;
+          padding-top: 4px;
+        }
+        .timeline-line {
+          width: 4px;
+          height: 60px;
+          background: linear-gradient(to bottom, #4A5568, #E2E8F0);
+          border-radius: 2px;
+          position: relative;
+        }
+        .timeline-line::before {
+          content: '';
+          position: absolute;
+          top: 8px;
+          left: -6px;
+          width: 16px;
+          height: 16px;
+          background: #4A5568;
+          border-radius: 50%;
+          border: 3px solid white;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+        .timeline-content h4 {
+          color: #1A202C;
+          font-size: 16px;
+          font-weight: 600;
+          margin: 0 0 6px 0;
+        }
+        .timeline-content p {
+          color: #4A5568;
+          font-size: 14px;
+          margin: 0;
+          line-height: 1.5;
+        }
+        
+        @media (max-width: 768px) {
+          .timeline-elegant { padding: 20px; }
+          .timeline-item {
+            grid-template-columns: 80px 4px 1fr;
+            gap: 16px;
+            margin-bottom: 24px;
+          }
+          .timeline-date { font-size: 12px; }
+          .timeline-content h4 { font-size: 14px; }
+          .timeline-content p { font-size: 13px; }
+        }
+      </style>
+      
+      <div class="timeline-elegant">
+        <div class="timeline-item">
+          <div class="timeline-date">2020</div>
+          <div class="timeline-line"></div>
+          <div class="timeline-content">
+            <h4>🏥 Surgical Nursing Career</h4>
+            <p>Started as OR & Anesthesia specialist at ULSEDV</p>
+          </div>
+        </div>
+        
+        <div class="timeline-item">
+          <div class="timeline-date">Sep 2024</div>
+          <div class="timeline-line"></div>
+          <div class="timeline-content">
+            <h4>👶 42 Piscine with Newborn</h4>
+            <p>Began intensive coding bootcamp with 1-month-old baby</p>
+          </div>
+        </div>
+        
+        <div class="timeline-item">
+          <div class="timeline-date">Oct 2024</div>
+          <div class="timeline-line"></div>
+          <div class="timeline-content">
+            <h4>💻 42 Common Core</h4>
+            <p>Started full curriculum while managing family and work</p>
+          </div>
+        </div>
+        
+        <div class="timeline-item">
+          <div class="timeline-date">Sep 2025</div>
+          <div class="timeline-line"></div>
+          <div class="timeline-content">
+            <h4>🎓 42 Porto Graduate</h4>
+            <p>Achieved 110/100 final score</p>
+          </div>
+        </div>
+        
+        <div class="timeline-item">
+          <div class="timeline-date">Oct 2025</div>
+          <div class="timeline-line"></div>
+          <div class="timeline-content">
+            <h4>🚀 SEA:ME Automotive</h4>
+            <p>Next chapter: Automotive Engineering program</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+</div>
+
+---
+
+## Technical Excellence
 
 <div align="center">
 
@@ -252,55 +272,32 @@ const uniqueSkills = {
 <tr>
 <td width="50%">
 
-### 🎮 **cub3D - 3D Game Engine**
-<img src="https://img.shields.io/badge/Score-125%2F100-gold?style=flat-square&logo=42"/>
-<img src="https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/Graphics-MLX-green?style=flat-square"/>
+### 🏆 42 Porto Projects
 
-**Built a complete 3D raycasting engine from scratch**
-
-```c
-typedef struct s_game {
-    t_player    player;
-    t_map       *map;
-    t_texture   textures[4];
-    void        *mlx_ptr;
-    t_img       img;
-    double      *z_buffer;
-} t_game;
-```
-
-✨ **Key Features:**
-- Raycasting algorithm implementation
-- Texture mapping & sprite rendering  
-- Collision detection & player movement
-- Optimized for smooth performance
+| Project | Score | Complexity |
+|---------|-------|------------|
+| **cub3D** | `125/100` | 3D Graphics Engine |
+| **transcendence** | `110/100` | Full-Stack Platform |
+| **webserv** | `100/100` | HTTP Server |
+| **minishell** | `99/100` | Shell Implementation |
+| **get_next_line** | `125/100` | File I/O Mastery |
 
 </td>
 <td width="50%">
 
-### 🌐 **ft_transcendence - Full-Stack Platform**
-<img src="https://img.shields.io/badge/Score-110%2F100-brightgreen?style=flat-square&logo=42"/>
-<img src="https://img.shields.io/badge/Stack-Full%20Stack-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Real%20Time-WebSocket-orange?style=flat-square"/>
+### 💻 Core Stack
 
-**Real-time multiplayer Pong with complete user system**
+**Systems Programming**
+- C/C++ • Linux • Shell Scripting
 
-```typescript
-interface GameFeatures {
-  realTime: "WebSocket multiplayer";
-  auth: "JWT + 2FA security";
-  ui: "React + TypeScript";
-  backend: "Node.js + PostgreSQL";
-  deployment: "Docker containers";
-}
-```
+**Web Development** 
+- TypeScript • React • Node.js • PostgreSQL
 
-🔥 **Tech Highlights:**
-- Real-time game synchronization
-- Secure authentication system
-- PostgreSQL database design
-- Docker containerization
+**DevOps & Tools**
+- Docker • Nginx • Git
+
+**Languages**
+- 🇵🇹 Portuguese • 🇫🇷 French • 🇬🇧 English • 🇮🇹 Italian
 
 </td>
 </tr>
@@ -310,211 +307,192 @@ interface GameFeatures {
 
 ---
 
-## 📊 **GitHub Analytics**
+## Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&icon_color=4A5568&text_color=2D3748" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=default&hide_border=true&background=ffffff&stroke=4A5568&ring=2D3748&fire=4A5568&currStreakLabel=2D3748" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FEE77A&text_color=FFFFFF&ring_color=FF6B9D&fire=FF6B9D" />
-
-</td>
-<td width="50%">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FEE77A&fire=FF6B9D&currStreakLabel=FEE77A&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
-
-</td>
-</tr>
-</table>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=FFFFFF" />
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=melaniereis&bg_color=0d1117&color=FF6B9D&line=FEE77A&point=FFFFFF&area=true&hide_border=true&custom_title=Melanie's%20Coding%20Journey%20-%20From%20Healthcare%20to%20Code" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=2D3748" />
 
 </div>
 
 ---
 
-## 🌱 **Life & Learning Balance**
+## Future Vision
 
 <div align="center">
 
-<table>
-<tr>
-<td width="60%">
-
-### 🤱 **The Incredible Journey**
-
-```python
-class ResilientDeveloper:
-    def __init__(self):
-        self.challenges = [
-            "👶 Coding during pregnancy",
-            "🏥 Full-time healthcare work",
-            "😴 Limited sleep (2-3 hours)",
-            "🤱 New mother responsibilities"
-        ]
-        self.achievements = [
-            "✅ 42 Porto Graduate - 110/100",
-            "✅ 20+ projects completed",
-            "✅ Zero failed evaluations",
-            "✅ Consistent high performance"
-        ]
-    
-    def get_inspiration(self):
-        return "Proving that with determination, any challenge is conquerable"
-```
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Success"/>
-
-**📈 Achievement Unlocked:**
-<br>
-*Balanced motherhood and intensive coding education while maintaining excellence*
-
-</td>
-</tr>
-</table>
+<svg width="100%" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .future-container {
+          background: linear-gradient(135deg, #F7FAFC 0%, #EDF2F7 100%);
+          border: 1px solid #E2E8F0;
+          border-radius: 16px;
+          padding: 40px;
+          margin: 20px;
+          text-align: center;
+          font-family: 'Inter', 'Segoe UI', sans-serif;
+          height: calc(100% - 40px);
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+        .future-container h3 {
+          color: #1A202C;
+          font-size: 24px;
+          font-weight: 500;
+          margin: 0 0 16px 0;
+        }
+        .future-container p {
+          color: #4A5568;
+          font-size: 16px;
+          line-height: 1.6;
+          margin: 0 0 24px 0;
+        }
+        .future-grid {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          gap: 16px;
+          max-width: 600px;
+          margin: 0 auto;
+        }
+        .future-item {
+          background: white;
+          border: 1px solid #E2E8F0;
+          border-radius: 8px;
+          padding: 16px;
+          text-align: center;
+        }
+        .future-item strong {
+          color: #2D3748;
+          font-size: 14px;
+          display: block;
+          margin-bottom: 4px;
+        }
+        .future-item span {
+          color: #718096;
+          font-size: 12px;
+        }
+        
+        @media (max-width: 768px) {
+          .future-container { padding: 24px; }
+          .future-container h3 { font-size: 20px; }
+          .future-container p { font-size: 14px; }
+          .future-grid { grid-template-columns: 1fr; gap: 12px; }
+        }
+      </style>
+      
+      <div class="future-container">
+        <h3>🚀 SEA:ME Automotive • October 2025</h3>
+        <p>
+          Bridging healthcare precision with automotive innovation. 
+          Applying life-critical system experience to safety-focused automotive technology.
+        </p>
+        
+        <div class="future-grid">
+          <div class="future-item">
+            <strong>🩺 HealthTech Integration</strong>
+            <span>In-vehicle monitoring systems</span>
+          </div>
+          <div class="future-item">
+            <strong>🚨 Emergency Response</strong>
+            <span>Life-saving automation</span>
+          </div>
+          <div class="future-item">
+            <strong>🧠 Driver Wellness</strong>
+            <span>Real-time health analytics</span>
+          </div>
+          <div class="future-item">
+            <strong>⚡ Safety-Critical Code</strong>
+            <span>Zero-error automotive software</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
 </div>
 
 ---
 
-## 🎯 **Next Chapter: SEA:ME Automotive**
+## Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,14,20&height=200&section=header&text=Starting%20October%202025&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Bridging%20Healthcare%20%26%20Automotive%20Tech&descAlignY=70" />
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .connect-section {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100%;
+          gap: 20px;
+          font-family: 'Inter', 'Segoe UI', sans-serif;
+        }
+        .connect-link {
+          display: inline-flex;
+          align-items: center;
+          gap: 8px;
+          background: #F7FAFC;
+          border: 1px solid #E2E8F0;
+          color: #2D3748;
+          text-decoration: none;
+          padding: 12px 20px;
+          border-radius: 8px;
+          font-size: 14px;
+          font-weight: 500;
+          transition: all 0.2s ease;
+        }
+        .connect-link:hover {
+          background: #EDF2F7;
+          border-color: #CBD5E0;
+          transform: translateY(-1px);
+        }
+        
+        @media (max-width: 768px) {
+          .connect-section {
+            flex-direction: column;
+            gap: 12px;
+          }
+          .connect-link {
+            width: 200px;
+            justify-content: center;
+          }
+        }
+      </style>
+      
+      <div class="connect-section">
+        <a href="https://www.linkedin.com/in/melanie-ferraz-reis-622229a5" class="connect-link">
+          💼 LinkedIn
+        </a>
+        <a href="mailto:melanie.ferraz@ua.pt" class="connect-link">
+          📧 Email
+        </a>
+        <a href="https://github.com/melaniereis" class="connect-link">
+          🐙 GitHub
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
-### 🚗💻 **Vision for the Future**
+<p style="color: #718096; font-size: 14px; margin: 16px 0 8px 0;">📍 Ovar, Portugal • Open to HealthTech & Automotive opportunities</p>
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🩺 In-Vehicle Health**
-<br>
-Monitoring driver wellness
-<br>
-Real-time health alerts
-
-</td>
-<td width="33%" align="center">
-
-**🚨 Emergency Systems**
-<br>
-Crisis response automation
-<br>
-Life-saving technology
-
-</td>
-<td width="33%" align="center">
-
-**🏥 Mobile Healthcare**
-<br>
-Telemedicine in vehicles
-<br>
-Remote patient monitoring
-
-</td>
-</tr>
-</table>
-
-```cpp
-namespace AutomotiveHealthTech {
-    class NextGeneration {
-    public:
-        std::string mission = "Apply healthcare precision to automotive safety";
-        std::vector<std::string> focus = {
-            "Safety-critical software",
-            "Driver wellness monitoring", 
-            "Emergency response systems",
-            "Medical-grade reliability"
-        };
-    };
-}
-```
+<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=4A5568&style=flat&labelColor=E2E8F0" />
 
 </div>
 
 ---
 
-## 🤝 **Let's Connect & Collaborate**
+<div align="center" style="margin-top: 40px;">
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 📧 **Get in Touch**
-<br>
-<a href="mailto:melanie.ferraz@ua.pt">
-  <img src="https://img.shields.io/badge/Email-melanie.ferraz%40ua.pt-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<br><br>
-<a href="https://www.linkedin.com/in/melanie-ferraz-reis-622229a5">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-
-</td>
-<td align="center">
-
-### 🌍 **Professional Info**
-<br>
-📍 **Location:** Ovar, Portugal 🇵🇹
-<br>
-🎯 **Focus:** HealthTech & Automotive
-<br>
-💼 **Open to:** Safety-critical roles
-<br>
-🚀 **Availability:** Open to opportunities
-
-</td>
-</tr>
-</table>
-
-### 💭 **Philosophy**
-
-> *"I approach code with the same precision as surgery—focused, reliable, and impactful.  
-> Every line matters when lives depend on it."*
-
-<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=FF6B9D&style=for-the-badge&labelColor=0d1117" />
+### 💭 *"I approach code with the same precision as surgery—focused, reliable, and impactful."*
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,3,20&height=200&section=footer&animation=twinkling" />
-
-### ⚡ **Ready to Build the Future Together?**
-
-```diff
-+ Seeking a developer with surgical precision and technical excellence?
-+ Someone who thrives under pressure and delivers reliable solutions?  
-+ A unique blend of healthcare experience and cutting-edge programming skills?
-
-! Let's connect and create something extraordinary! 🚀
-```
-
-**[⭐ Star this profile](https://github.com/melaniereis) • [🔗 Connect on LinkedIn](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5) • [📧 Email me](mailto:melanie.ferraz@ua.pt)**
-
-</div>
-
-<!--
-Hidden comment: This README uses modern design trends including:
-- Animated SVG headers and footers
-- Dynamic typing animations
-- Interactive stats widgets
-- Professional color scheme with gradients
-- Improved visual hierarchy and spacing
-- Personal branding and storytelling
-- Mobile-responsive design
-- Modern badges and icons
--->
