@@ -139,7 +139,7 @@ const achievement = {
 | [**libft**](https://github.com/melaniereis/42_libft)     | `125/100`   | C standard library implementation          | 🟢 Basic      |
 | [**Born2beroot**](https://github.com/melaniereis/42_Born2beRoot) | `106/100`   | System administration                      | 🟢 Basic      |
 | [**NetPractice**](https://github.com/melaniereis/42_NetPractice) | `100/100`   | Network configuration, TCP/IP              | 🟢 Basic      |
-| [**CPP Modules 00-09**](https://github.com/melaniereis/CPP_Module00) | `95-100/100`| OOP, templates, STL                        | 🟡 Medium     |
+| [**CPP Modules 00-09**](https://github.com/melaniereis/42_cpp_modules) | `95-100/100`| OOP, templates, STL                        | 🟡 Medium     |
 
 **🏆 Achievement:** Completed all core projects—some with retries—while balancing healthcare and family.
 
