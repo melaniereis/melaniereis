@@ -33,14 +33,14 @@
 <tr>
 <td align="center">
 
-✅ **42 Porto Graduate**
-✅ **11 months** from newborn to graduate
+- ✅ **42 Porto Graduate**
+- ✅ **11 months** from newborn to graduate
 
 </td>
 <td align="center">
 
-✅ **Completed Common Core** (September 2025)
-⚠️ **Learned from project failures**
+- ✅ **Completed Common Core** (September 2025)
+- ⚠️ **Learned from project failures**
 
 </td>
 </tr>
@@ -115,9 +115,9 @@ const achievement = {
 <img src="https://img.shields.io/badge/ft_transcendence-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
 
 **Full-Stack Pong Platform**
-– Real-time WebSockets gameplay
+- Real-time WebSockets gameplay
 - Multiplayer and AI opponent
-– Dockerized deployment & CI/CD
+- Dockerized deployment & CI/CD
 
 </td>
 <td align="center" width="33%">
@@ -125,9 +125,9 @@ const achievement = {
 <img src="https://img.shields.io/badge/webserv-100%2F100-blue?style=for-the-badge&logo=42&logoColor=white" />
 
 **HTTP Server from Scratch**
-– HTTP/1.1 compliance & virtual hosting
-– Concurrent connection management
-– CGI support and robust parsing
+- HTTP/1.1 compliance & virtual hosting
+- Concurrent connection management
+- CGI support and robust parsing
 
 </td>
 </tr>
@@ -292,10 +292,10 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 </td>
 <td align="center">
 
-📍 **Ovar, Portugal** 🇵🇹
-🎓 **Status:** 42 Porto Graduate
-🎯 **Open to:** HealthTech & Automotive roles
-🌟 **Specialization:** Safety-critical systems
+- 📍 **Ovar, Portugal** 🇵🇹
+- 🎓 **Status:** 42 Porto Graduate
+- 🎯 **Open to:** HealthTech & Automotive roles
+- 🌟 **Specialization:** Safety-critical systems
 
 </td>
 </tr>
