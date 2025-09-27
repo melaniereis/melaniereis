@@ -33,14 +33,14 @@
 <tr>
 <td align="center">
 
-  ✅ **42 Porto Graduate**
-  ✅ **11 months** from newborn to graduate
+  - ✅ **42 Porto Graduate**
+  - ✅ **11 months** from newborn to graduate
 
 </td>
 <td align="center">
 
-  ✅ **Completed Common Core** (September 2025)
-  ⚠️ **Learned from project failures**
+  - ✅ **Completed Common Core** (September 2025)
+  - ⚠️ **Learned from project failures**
 
 </td>
 </tr>
@@ -292,10 +292,7 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 </td>
 <td align="center">
 
-  📍 **Ovar, Portugal** 🇵🇹
-  🎓 **Status:** 42 Porto Graduate
-  🎯 **Open to:** HealthTech & Automotive roles
-  🌟 **Specialization:** Safety-critical systems
+  📍 **Ovar, Portugal** 🇵🇹  -  🎓 **Status:** 42 Porto Graduate  -  🎯 **Open to:** HealthTech & Automotive roles  -  🌟 **Specialization:** Safety-critical systems
 
 </td>
 </tr>
