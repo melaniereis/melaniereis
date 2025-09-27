@@ -70,7 +70,7 @@ const achievement = {
 | **2020**   | 🏥 **Surgical Nursing Career**   | Started as OR & Anesthesia nurse at ULSEDV         |
 | **Sep 2024** | 👶 **42 Piscine with Newborn**  | Began intensive coding with 1-month-old baby        |
 | **Oct 2024** | 💻 **42 Common Core**           | Started full curriculum while managing family & work |
-| **Sep 2025** | 🎓 **42 Porto Graduate**        | Completed Common Core this week                      |
+| **Sep 2025** | 🎓 **42 Porto Graduate**        | Completed Common Core                                |
 | **Oct 2025** | 🚀 **SEA:ME Automotive**        | Next chapter: Automotive Engineering program         |
 
 </div>
