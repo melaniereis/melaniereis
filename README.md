@@ -22,25 +22,26 @@
 
 </div>
 
-> **September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
->
-> While other students had 8+ hours daily, I coded between feedings, nap times, and 12-hour surgical shifts. I encountered multiple project failures along the way—but each retry taught me something new.
+**September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
+
+While other students had 8+ hours daily, I coded between feedings, nap times, and 12-hour surgical shifts. I encountered multiple project failures along the way—but each retry taught me something new.
 
 <div align="center">
 
-### 🏆 **The Result** 🏆
+### 🏆 The Result
 
-✅ **42 Porto Graduate** &nbsp;&nbsp;•&nbsp;&nbsp; ✅ **Completed Common Core** (September 2025)
-✅ **11 months** from newborn to graduate &nbsp;&nbsp;•&nbsp;&nbsp; ⚠️ **Learned from project failures**
+✅ **42 Porto Graduate** &nbsp;&nbsp;&nbsp; ✅ **Completed Common Core** (September 2025)
+✅ **11 months** from newborn to graduate &nbsp;&nbsp;&nbsp; ⚠️ **Learned from project failures**
 
 </div>
 
+<details>
+<summary><b>💻 View the Code Behind the Journey</b></summary>
+
 <br>
 
-<div align="center">
-
 ```javascript
-// The journey that seemed impossible 🚀
+// The journey that seemed impossible
 const achievement = {
   timeline: "11 months",
   challenges: [
@@ -54,12 +55,12 @@ const achievement = {
   failures: "Multiple project retries",
 
   getInspiration() {
-    return "Failure is feedback—keep going! 💪";
+    return "Failure is feedback—keep going!";
   }
 };
 ```
 
-</div>
+</details>
 
 <div align="center">
 
