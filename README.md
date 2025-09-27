@@ -240,7 +240,7 @@ const achievement = {
 <tr>
 <td width="30%" align="center">
 
-<img width="120" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" />
+<img width="120" src="./melanie_nurse_dev.gif" />
 
 </td>
 <td width="70%">
