@@ -18,24 +18,33 @@
 
 <div align="center">
 
-### ✨ The Impossible Journey ✨
 
-</div>
+> **September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
+>
+> While other students had 8+ hours daily, I coded between feedings, nap times, and 12-hour surgical shifts. I encountered multiple project failures along the way—but each retry taught me something new.
 
-**September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
-
-While other students had 8+ hours daily, I coded between feedings, nap times, and 12-hour surgical shifts. I encountered multiple project failures along the way—but each retry taught me something new.
+<br>
 
 <div align="center">
 
-### 🏆 The Result
+### 🏆 **The Result** 🏆
 
-✅ **42 Porto Graduate** &nbsp;&nbsp;&nbsp; ✅ **Completed Common Core** (September 2025)
-✅ **11 months** from newborn to graduate &nbsp;&nbsp;&nbsp; ⚠️ **Learned from project failures**
+<table>
+<tr>
+<td align="center">
 
-</div>
+✅ **42 Porto Graduate**
+✅ **11 months** from newborn to graduate
 
-<details>
+</td>
+<td align="center">
+
+✅ **Completed Common Core** (September 2025)
+⚠️ **Learned from project failures**
+
+</td>
+</tr>
+</table>
 <summary><b>💻 View the Code Behind the Journey</b></summary>
 
 <br>
