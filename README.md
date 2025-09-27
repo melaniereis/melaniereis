@@ -315,7 +315,7 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 
 <div align="center">
 
-<img src="./melanie_nurse_dev.gif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 
 ### 💭 *“I approach code with the same precision as surgery—focused, reliable, and resilient.”*
 
