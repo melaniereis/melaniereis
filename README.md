@@ -2,49 +2,67 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Melanie%20Reis&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Healthcare%20Professional%20●%20Learning%20to%20Code&descAlign=50&descAlignY=60&animation=fadeIn&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Melanie%20Reis&fontSize=90&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Healthcare%20Professional%20●%20Aspiring%20Developer&descAlign=50&descAlignY=55&animation=fadeIn&descSize=24" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🩺+5+Years+Healthcare+Experience;👶+Coding+with+newborn+%26+toddler;💻+42+Porto+Student;🚀+Future+HealthTech+Developer&font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🩺+5+Years+Surgery+Experience;💻+42+Porto+Student;👶+Learning+with+a+newborn;💪+Resilience+Through+Challenges&font=Fira+Code&size=22&duration=4000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 My Story in 30 Seconds
+## 🌟 The Story
+
+**Healthcare professional turned aspiring developer**
+Learning to code while juggling surgery schedules, a newborn, and a toddler.
+xac
+<div align="center">
+
+```mermaid
+graph LR
+    A[🏥 5 Years Surgery] --> B[👶 New Parent]
+    B --> C[💻 42 School]
+    C --> D{🎯 Current Focus}
+    D --> E[📚 Building Fundamentals]
+    D --> F[🚀 Growing Skills]
+```
+
+**Real talk:** Some projects take multiple attempts. Some days I code at 3 AM between feedings. Every small step forward is a victory.
+
+</div>
+
+---
+
+## 💻 Current Learning Stack
 
 <div align="center">
 
+| 🛠️ Technology | 📊 Level | 🎯 Focus |
+|:-------------|:--------:|:---------|
+| **C Programming** | 🟩🟩🟩🟨⬜ | Memory management, pointers |
+| **Algorithms** | 🟩🟩🟨⬜⬜ | Problem-solving, optimization |
+| **System Programming** | 🟩🟩🟩⬜⬜ | Unix, processes, signals |
+| **Web Development** | 🟩🟩🟩🟩⬜ | HTML, CSS, JavaScript basics |
+
+### 🏆 42 Porto Projects
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center">
 
-### 🏥➡️💻 **The Journey**
-
-```mermaid
-timeline
-    title From OR to IDE
-    2019-2024 : 🏥 Surgery & Anesthesia
-    Sep 2024  : 👶 Started coding with newborn
-    2024-2025 : 📚 42 Porto projects
-    Future    : 🎯 HealthTech developer
-```
-
-*Learning to code between surgeries and feeding times*
+![libft](https://img.shields.io/badge/libft-✅_Completed-success?style=for-the-badge&logo=42)
+**C Library Recreation**
 
 </td>
-<td width="50%" align="center">
+<td align="center">
 
-### 💪 **What Makes Me Different**
+![get_next_line](https://img.shields.io/badge/get__next__line-🔄_In_Progress-orange?style=for-the-badge&logo=42)
+**File I/O Learning**
 
-🩺 **Healthcare Precision** - 5 years in life-critical environments
-👶 **Ultimate Multitasking** - Coding with newborn & toddler
-🌱 **Growth Mindset** - Every failure is a lesson
-🌍 **4 Languages** - Portuguese, French, English, Italian
-⚡ **Crisis Tested** - Performs under extreme pressure
+</td>
+<td align="center">
+
+![printf](https://img.shields.io/badge/printf-📚_Learning-blue?style=for-the-badge&logo=42)
+**Format Functions**
 
 </td>
 </tr>
@@ -54,48 +72,18 @@ timeline
 
 ---
 
-## 🛠️ Tech Stack & Projects
+## 🩺➡️💻 Healthcare to Tech
 
-<div align="center">
-
-### 🔧 **Currently Learning**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📚 **42 Porto Progress**
-
-| Project | Status | Skills Learned |
-|:--------|:------:|:---------------|
-| **libft** | ✅ Completed | C fundamentals, memory management |
-| **get_next_line** | 🔄 In progress | File I/O, buffer handling |
-| **ft_printf** | 📖 Learning | Variadic functions, formatting |
-| **push_swap** | 💪 Challenge | Algorithms, optimization |
-
-<details>
-<summary>📊 <b>Honest Skills Assessment</b></summary>
-
-<br>
-
-| Skill | Level | Notes |
-|:------|:-----:|:------|
-| **C Programming** | 🟩🟩🟩🟨⬜ 70% | Solid foundation, improving daily |
-| **Problem Solving** | 🟩🟩🟩🟩🟨 85% | Healthcare experience helps |
-| **Web Development** | 🟩🟩🟩⬜⬜ 60% | Frontend focus, learning backend |
-| **Debugging** | 🟩🟩🟩🟩⬜ 75% | Methodical approach from healthcare |
-
-*Real progress over perfect scores*
-
-</details>
-
-</div>
+**What transfers from surgery to coding:**
+- **Problem-solving under pressure** → Debug critical issues
+- **Attention to detail** → Code quality and testing
+- **Continuous learning** → Staying updated with tech
+- **Team collaboration** → Working with dev teams
+- **Crisis management** → Handling production issues
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -106,33 +94,10 @@ timeline
 
 ---
 
-## 🎯 What's Next
+## 🚀 What's Next
 
-<div align="center">
-
-<table>
-<tr>
-<td width="60%">
-
-### 🚀 **Goals for 2025**
-
-🩺 **HealthTech Focus** - Combine medical knowledge with technology
-🚗 **SEA:ME Automotive** - Safety-critical systems (if accepted)
-💻 **Full-Stack Skills** - Complete web development journey
-👥 **First Dev Role** - Junior position where I can grow and contribute
-
-</td>
-<td width="40%" align="center">
-
-<img width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-
-*Every expert was once a beginner*
-
-</td>
-</tr>
-</table>
-
-</div>
+**October 2025:** SEA:ME Automotive Program
+**Vision:** Bridging healthcare precision with automotive safety tech
 
 ---
 
@@ -142,22 +107,12 @@ timeline
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanie.ferraz@ua.pt)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melaniereis)
 
-**📍 Based in Ovar, Portugal 🇵🇹**
-
-*Open to junior developer opportunities and learning collaborations*
-
-</div>
-
----
-
-<div align="center">
+**Based in Ovar, Portugal 🇵🇹**
+*Open to junior dev opportunities & learning collaborations*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**💭 "Coding with the same precision I bring to patient care - dedicated, resilient, always learning"**
-
-<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+### *"Learning to code one sleepless night at a time"* ✨
 
 </div>
