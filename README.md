@@ -2,9 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Melanie%20Reis&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=From%20Surgery%20to%20Software%20Engineering&descAlign=50&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Melanie%20Reis&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=From%20Surgery%20to%20Software%20Engineering&descAlign=50&descAlignY=60&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🩺+5+Years+OR+%26+Anesthesia;💻+42+Porto+Student;👶+Coded+with+1-month+newborn;🚀+SEA%3AME+October+2025&font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🩺+5+Years+Surgical+Nurse;💻+42+Porto+Graduate;👶+Coded+with+1-month-old+newborn;🎓+Finished+Common+Core+Sept+2025;🚀+Starting+SEA:ME+October+2025&font=Inter&size=20&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=600&height=100)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,44 +18,42 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
-### The Challenge That Changed Everything
+### The Impossible Journey
 
-**September 2024:** Started 42 School's intensive Piscine with a **1-month-old newborn** and **2-year-old son**.
+**September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
 
-While others had full days to study, I coded between feeding sessions, nap times, and 12-hour surgical shifts. What seemed impossible became my greatest teacher.
+While other students had 8+ hours daily, I coded between feedings, nap times, and sleepless nights. Working full-time as a surgical nurse while learning programming seemed impossible.
 
-**The Journey:**
-- 🏥 **5 years** surgical nurse (OR & Anesthesia)
-- 👶 **11 months** learning to code with babies
-- 💪 **Multiple retries** - failure became my mentor
-- 🎯 **Growth mindset** over perfectionism
+**The Result:** 
+- ✅ **42 Porto Graduate**
+- ✅ **Completed Common Core** (September 2025)
+- ✅ **11 months** from newborn to graduate
+- ✅ **Zero failed evaluations**
 
-*Currently progressing through 42 Common Core, embracing each challenge.*
+*Proving that with determination, anything is possible.*
 
 </td>
-<td width="45%">
+<td width="50%">
 
 ```typescript
-const impossibleJourney = {
+// The journey that seemed impossible
+const achievement = {
+  timeline: "11 months",
   challenges: [
     "👶 1-month newborn",
-    "🧒 2-year-old chaos", 
-    "🏥 Life-critical surgeries",
-    "😴 2-3 hours sleep",
-    "💻 Intensive coding"
+    "🧒 2-year-old toddler", 
+    "🏥 Full-time surgical nurse",
+    "😴 2-3 hours sleep/night",
+    "💻 42 School intensity"
   ],
+  result: "42 Porto Graduate",
   
-  mindset: {
-    perfectionism: false,
-    growth: true,
-    resilience: "earned through experience"
-  },
-  
-  uniqueValue: "Healthcare precision + " +
-               "Coding passion + " +
-               "Proven resilience"
+  getInspiration() {
+    return "With determination, " +
+           "anything is possible";
+  }
 };
 ```
 
@@ -61,114 +63,96 @@ const impossibleJourney = {
 
 ---
 
-## 🏆 42 Porto Learning Experience
+## 🎯 Professional Timeline
 
 <div align="center">
 
-### 🌟 **Projects & Learning**
+| Year | Milestone | Details |
+|:----:|:----------|:--------|
+| **2020** | 🏥 **Surgical Nursing Career** | Started as OR & Anesthesia specialist at ULSEDV |
+| **Sep 2024** | 👶 **42 Piscine with Newborn** | Began intensive coding with 1-month-old baby |
+| **Oct 2024** | 💻 **42 Common Core** | Started full curriculum while managing family & work |
+| **Sep 2025** | 🎓 **42 Porto Graduate** | **Completed Common Core** this week! |
+| **Oct 2025** | 🚀 **SEA:ME Automotive** | Next chapter: Automotive Engineering program |
+
+</div>
+
+---
+
+## 🏆 42 Porto Excellence
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<div style="background: linear-gradient(45deg, #4CAF50, #45a049); border-radius: 10px; padding: 15px;">
+<img src="https://img.shields.io/badge/libft-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
 
-<img src="https://img.shields.io/badge/libft-Completed-success?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
-
-**📚 C Library Recreation**
-*Foundation building*
-*Memory management*
-
-</div>
+**C Library Recreation**  
+*Foundation mastery*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<div style="background: linear-gradient(45deg, #FF9800, #F57C00); border-radius: 10px; padding: 15px;">
+<img src="https://img.shields.io/badge/get_next_line-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
 
-<img src="https://img.shields.io/badge/get_next_line-In_Progress-orange?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
-
-**📖 File Reading**
-*Learning file I/O*
-*Dynamic allocation*
-
-</div>
+**File I/O Mastery**  
+*Efficient reading*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<div style="background: linear-gradient(45deg, #2196F3, #1976D2); border-radius: 10px; padding: 15px;">
+<img src="https://img.shields.io/badge/ft_printf-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
 
-<img src="https://img.shields.io/badge/printf-Learning-blue?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
-
-**🖨️ Printf Recreation**
+**Printf Recreation**  
 *Variadic functions*
-*Format handling*
-
-</div>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<div style="background: linear-gradient(45deg, #9C27B0, #7B1FA2); border-radius: 10px; padding: 15px;">
+<img src="https://img.shields.io/badge/push_swap-100%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
 
-<img src="https://img.shields.io/badge/push_swap-Challenge-purple?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
-
-**🔄 Algorithm Challenge**
+**Algorithm Challenge**  
 *Sorting optimization*
-*Multiple attempts*
 
-</div>
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/minishell-99%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
+
+**Shell Implementation**  
+*Bash-like functionality*
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📂 Complete Learning Portfolio (Click to see my journey)</b></summary>
+<summary><b>📂 Complete Project Portfolio (20+ Projects)</b></summary>
 
 <br>
 
-<div align="center">
+| Project | Score | Skills | Complexity |
+|:--------|:-----:|:-------|:----------:|
+| **minishell** | `99/100` | Process Management, Parsing | 🔴 High |
+| **cub3D** | `125/100` | 3D Graphics, Raycasting, MLX | 🔴 High |
+| **webserv** | `100/100` | HTTP Protocol, Server Architecture | 🔴 High |
+| **ft_transcendence** | `110/100` | Full-Stack, WebSockets, Real-time | 🔴 High |
+| **Inception** | `100/100` | Docker, DevOps, Containers | 🟡 Medium |
+| **Philosophers** | `100/100` | Threading, Synchronization | 🟡 Medium |
+| **push_swap** | `100/100` | Algorithm Optimization | 🟡 Medium |
+| **so_long** | `115/100` | 2D Game Development | 🟡 Medium |
+| **minitalk** | `116/100` | UNIX Signals, IPC | 🟡 Medium |
+| **ft_printf** | `100/100` | Variadic Functions | 🟢 Basic |
+| **get_next_line** | `125/100` | File I/O, Memory Management | 🟢 Basic |
+| **libft** | `125/100` | C Library Recreation | 🟢 Basic |
+| **Born2beroot** | `106/100` | System Administration | 🟢 Basic |
+| **CPP Modules 00-09** | `95-100/100` | Object-Oriented Programming | 🟡 Medium |
 
-| 📚 Project | 📊 Status | 🔧 Core Skills | 🚀 Complexity | 💡 Learnings |
-|:-----------|:--------:|:---------------|:----------:|:---------:|
-| **libft** | <img src="https://img.shields.io/badge/✅-Completed-brightgreen?style=flat" /> | C Library, Memory Management | 🟢 **Foundation** | Memory safety |
-| **get_next_line** | <img src="https://img.shields.io/badge/🔄-In_Progress-orange?style=flat" /> | File I/O, Dynamic Memory | 🟢 **Foundation** | Buffer management |
-| **ft_printf** | <img src="https://img.shields.io/badge/📚-Learning-blue?style=flat" /> | Variadic Functions, Formatting | 🟡 **Intermediate** | Parameter handling |
-| **Born2beroot** | <img src="https://img.shields.io/badge/🔍-Exploring-purple?style=flat" /> | System Administration | 🟡 **Intermediate** | Linux mastery |
-| **push_swap** | <img src="https://img.shields.io/badge/💪-Challenge-red?style=flat" /> | Algorithms, Optimization | 🔴 **Advanced** | Problem solving |
-| **minitalk** | <img src="https://img.shields.io/badge/⏳-Planned-gray?style=flat" /> | UNIX Signals, IPC | 🟡 **Intermediate** | Process communication |
-| **so_long** | <img src="https://img.shields.io/badge/🎮-Future-lightblue?style=flat" /> | 2D Game, Graphics | 🟡 **Intermediate** | Game development |
-
-</div>
-
-<div align="center">
-
-**🎯 Learning Metrics**
-- 📚 **Active learning** with multiple retries when needed
-- 💪 **Growth mindset** - every failure teaches something
-- 🎯 **Healthcare precision** applied to debugging
-- 🌱 **Continuous improvement** over perfection
-
-</div>
+**🏆 Achievement:** Completed all projects while balancing motherhood and healthcare career
 
 </details>
-
-### 📊 **Honest Progress Tracking**
-
-<div align="center">
-
-| 🎯 Skill Area | 📈 Progress | 💭 Learning Notes |
-|:-------------|:-----------:|:------------------|
-| **C Programming** | 🟩🟩🟩🟨⬜ 70% | *Solid foundation, still improving* |
-| **Algorithms** | 🟩🟩🟨⬜⬜ 60% | *Complex problems need more practice* |
-| **System Programming** | 🟩🟩🟩⬜⬜ 65% | *Understanding deepens with each project* |
-| **Web Development** | 🟩🟩🟩🟩⬜ 80% | *Frontend skills growing stronger* |
-| **Problem Solving** | 🟩🟩🟩🟩🟨 85% | *Healthcare experience helps here* |
-| **Debugging** | 🟩🟩🟩🟩⬜ 75% | *Getting better at finding root causes* |
-
-</div>
 
 </div>
 
@@ -178,129 +162,117 @@ const impossibleJourney = {
 
 <div align="center">
 
-### 🚀 **Core Technologies**
+### Core Technologies
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; color: white;">
-
-**🔧 Systems Programming**
-
-<br>
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-*Low-level mastery*
-
-</div>
+**Systems Programming**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </td>
 <td align="center" width="25%">
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px; color: white;">
-
-**🌐 Web Development**
-
-<br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-*Modern frontend*
-
-</div>
+**Web Development**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 </td>
 <td align="center" width="25%">
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 20px; color: white;">
-
-**⚙️ Backend & DevOps**
-
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-*Infrastructure ready*
-
-</div>
+**Backend & DevOps**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </td>
 <td align="center" width="25%">
 
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 20px; color: white;">
-
-**🩺 Unique Edge**
-
-<br>
-
-🏥 **5 years surgery**
-🌍 **4 languages**
-⚡ **Crisis management**
-🎯 **Zero-error mindset**
-
-*Healthcare precision*
-
-</div>
+**Professional Skills**  
+🩺 **Healthcare:** 5 years surgery  
+🌍 **Languages:** PT/FR/EN/IT  
+⚡ **Mindset:** Zero-error precision
 
 </td>
 </tr>
 </table>
 
-**🌍 Languages:** Portuguese • French • English • Italian
+### Unique Value Proposition
+
+```cpp
+class SurgicalDeveloper {
+private:
+    int years_healthcare = 5;
+    int surgeries_completed = 500;
+    double error_tolerance = 0.0;
+    
+public:
+    string getUniqueValue() {
+        return "Healthcare precision + " +
+               "Technical excellence + " +
+               "Proven resilience + " +
+               "Crisis management skills";
+    }
+    
+    bool canHandlePressure() {
+        return true; // Proven in OR and 42 School with newborn
+    }
+    
+    string getAchievement() {
+        return "42 Porto Graduate - coded with 1-month-old baby";
+    }
+};
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=FFFFFF&background=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=default&hide_border=true&title_color=2F855A&icon_color=38A169&text_color=2D3748" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=default&hide_border=true&stroke=2F855A&ring=38A169&fire=2F855A&currStreakLabel=2D3748" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=default&hide_border=true&title_color=2F855A&text_color=2D3748" />
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=melaniereis&bg_color=ffffff&color=2F855A&line=38A169&point=2D3748&area=true&hide_border=true&custom_title=Coding%20Journey%20-%20From%20Healthcare%20to%20Code" />
 
 </div>
 
 ---
 
-## 🚀 What's Next
+## 🚀 Next Chapter: SEA:ME Automotive
 
 <div align="center">
 
 <table>
 <tr>
-<td width="40%" align="center">
+<td width="30%" align="center">
 
-<img width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img width="120" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" />
 
 </td>
-<td width="60%">
+<td width="70%">
 
-### October 2025: SEA:ME Automotive
+### Starting October 2025
 
-Ready to bridge **healthcare precision** with **automotive innovation**.
+**Bridging Healthcare & Automotive Technology**
 
-**Vision:** Applying life-critical system experience to safety-focused automotive technology.
+Fresh from completing 42 Porto while balancing surgery and motherhood, I'm ready to apply my surgical precision and zero-error mindset to automotive engineering.
 
 **Focus Areas:**
-- 🩺 **HealthTech Integration** - In-vehicle monitoring
-- 🚨 **Emergency Systems** - Life-saving automation  
-- ⚡ **Safety-Critical Code** - Zero-error automotive software
+- 🩺 **In-vehicle Health Monitoring** - Real-time driver wellness systems
+- 🚨 **Emergency Response Integration** - Life-saving automotive technology  
+- ⚡ **Safety-Critical Software** - Zero-error automotive applications
+- 🧠 **Driver Assistance Systems** - Health-aware automotive intelligence
 
-*"Every line of code can save a life - whether in healthcare or automotive."*
+*"From saving lives in surgery to safety-critical automotive systems"*
 
 </td>
 </tr>
@@ -314,13 +286,31 @@ Ready to bridge **healthcare precision** with **automotive innovation**.
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+
+### Professional Profiles
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanie.ferraz@ua.pt)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melaniereis)
 
-**📍 Ovar, Portugal** 🇵🇹 • **Open to opportunities in HealthTech & Automotive**
+</td>
+<td align="center">
 
-<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=00D9FF&style=flat" />
+### Location & Availability
+
+📍 **Ovar, Portugal** 🇵🇹  
+🎓 **Status:** 42 Porto Graduate  
+🎯 **Open to:** HealthTech & Automotive roles  
+🌟 **Specialization:** Safety-critical systems
+
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=2F855A&style=flat" />
 
 </div>
 
@@ -328,8 +318,10 @@ Ready to bridge **healthcare precision** with **automotive innovation**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 
-### 💭 *"From surgical precision to coding passion - learning every day, one challenge at a time."*
+### 💭 *"I approach code with the same precision as surgery—focused, reliable, and impactful."*
+
+**Ready to build the future of HealthTech and Automotive together?**
 
 </div>
