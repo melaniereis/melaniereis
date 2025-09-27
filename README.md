@@ -61,59 +61,203 @@ const impossibleJourney = {
 
 ---
 
-## 💻 Technical Journey
+## 🏆 42 Porto Learning Experience
 
 <div align="center">
+
+### 🌟 **Projects & Learning**
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/libft-✅-brightgreen?style=for-the-badge&logo=42" />
-**C Library Recreation**
+<div style="background: linear-gradient(45deg, #4CAF50, #45a049); border-radius: 10px; padding: 15px;">
+
+<img src="https://img.shields.io/badge/libft-Completed-success?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+
+**📚 C Library Recreation**
 *Foundation building*
+*Memory management*
+
+</div>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/get_next_line-🔄-orange?style=for-the-badge&logo=42" />
-**File I/O Mastery**
-*Learning process*
+<div style="background: linear-gradient(45deg, #FF9800, #F57C00); border-radius: 10px; padding: 15px;">
+
+<img src="https://img.shields.io/badge/get_next_line-In_Progress-orange?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+
+**📖 File Reading**
+*Learning file I/O*
+*Dynamic allocation*
+
+</div>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/ft_printf-📚-blue?style=for-the-badge&logo=42" />
-**Variadic Functions**
-*Current challenge*
+<div style="background: linear-gradient(45deg, #2196F3, #1976D2); border-radius: 10px; padding: 15px;">
+
+<img src="https://img.shields.io/badge/printf-Learning-blue?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+
+**🖨️ Printf Recreation**
+*Variadic functions*
+*Format handling*
+
+</div>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/push_swap-💪-purple?style=for-the-badge&logo=42" />
-**Algorithm Logic**
+<div style="background: linear-gradient(45deg, #9C27B0, #7B1FA2); border-radius: 10px; padding: 15px;">
+
+<img src="https://img.shields.io/badge/push_swap-Challenge-purple?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+
+**🔄 Algorithm Challenge**
+*Sorting optimization*
 *Multiple attempts*
+
+</div>
 
 </td>
 </tr>
 </table>
 
-### 🛠️ Tech Stack
+<details>
+<summary><b>📂 Complete Learning Portfolio (Click to see my journey)</b></summary>
+
+<br>
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**🌍 Languages:** Portuguese • French • English • Italian
+| 📚 Project | 📊 Status | 🔧 Core Skills | 🚀 Complexity | 💡 Learnings |
+|:-----------|:--------:|:---------------|:----------:|:---------:|
+| **libft** | <img src="https://img.shields.io/badge/✅-Completed-brightgreen?style=flat" /> | C Library, Memory Management | 🟢 **Foundation** | Memory safety |
+| **get_next_line** | <img src="https://img.shields.io/badge/🔄-In_Progress-orange?style=flat" /> | File I/O, Dynamic Memory | 🟢 **Foundation** | Buffer management |
+| **ft_printf** | <img src="https://img.shields.io/badge/📚-Learning-blue?style=flat" /> | Variadic Functions, Formatting | 🟡 **Intermediate** | Parameter handling |
+| **Born2beroot** | <img src="https://img.shields.io/badge/🔍-Exploring-purple?style=flat" /> | System Administration | 🟡 **Intermediate** | Linux mastery |
+| **push_swap** | <img src="https://img.shields.io/badge/💪-Challenge-red?style=flat" /> | Algorithms, Optimization | 🔴 **Advanced** | Problem solving |
+| **minitalk** | <img src="https://img.shields.io/badge/⏳-Planned-gray?style=flat" /> | UNIX Signals, IPC | 🟡 **Intermediate** | Process communication |
+| **so_long** | <img src="https://img.shields.io/badge/🎮-Future-lightblue?style=flat" /> | 2D Game, Graphics | 🟡 **Intermediate** | Game development |
 
 </div>
+
+<div align="center">
+
+**🎯 Learning Metrics**
+- 📚 **Active learning** with multiple retries when needed
+- 💪 **Growth mindset** - every failure teaches something
+- 🎯 **Healthcare precision** applied to debugging
+- 🌱 **Continuous improvement** over perfection
+
+</div>
+
+</details>
+
+### 📊 **Honest Progress Tracking**
+
+<div align="center">
+
+| 🎯 Skill Area | 📈 Progress | 💭 Learning Notes |
+|:-------------|:-----------:|:------------------|
+| **C Programming** | 🟩🟩🟩🟨⬜ 70% | *Solid foundation, still improving* |
+| **Algorithms** | 🟩🟩🟨⬜⬜ 60% | *Complex problems need more practice* |
+| **System Programming** | 🟩🟩🟩⬜⬜ 65% | *Understanding deepens with each project* |
+| **Web Development** | 🟩🟩🟩🟩⬜ 80% | *Frontend skills growing stronger* |
+| **Problem Solving** | 🟩🟩🟩🟩🟨 85% | *Healthcare experience helps here* |
+| **Debugging** | 🟩🟩🟩🟩⬜ 75% | *Getting better at finding root causes* |
+
+</div>
+
+</div>
+
+---
+
+## 💻 Technical Stack
+
+<div align="center">
+
+### 🚀 **Core Technologies**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; color: white;">
+
+**🔧 Systems Programming**
+
+<br>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+*Low-level mastery*
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px; color: white;">
+
+**🌐 Web Development**
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+*Modern frontend*
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 20px; color: white;">
+
+**⚙️ Backend & DevOps**
+
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+*Infrastructure ready*
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 20px; color: white;">
+
+**🩺 Unique Edge**
+
+<br>
+
+🏥 **5 years surgery**
+🌍 **4 languages**
+⚡ **Crisis management**
+🎯 **Zero-error mindset**
+
+*Healthcare precision*
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**🌍 Languages:** Portuguese • French • English • Italian
 
 </div>
 
