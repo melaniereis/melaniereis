@@ -101,7 +101,7 @@ const achievement = {
 
 **Full-Stack Pong Platform**
 – Real-time WebSockets gameplay
-– JWT + 2FA secure authentication
+- Multiplayer and AI opponent
 – Dockerized deployment & CI/CD
 
 </td>
