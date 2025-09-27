@@ -18,6 +18,9 @@
 
 <div align="center">
 
+### ✨ The Impossible Journey ✨
+
+</div>
 
 > **September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
 >
@@ -45,6 +48,8 @@
 </td>
 </tr>
 </table>
+
+</div><details>
 <summary><b>💻 View the Code Behind the Journey</b></summary>
 
 <br>
@@ -78,6 +83,7 @@ const achievement = {
 </div>
 
 ---
+
 ## 🎯 Professional Timeline
 
 <div align="center">
@@ -116,7 +122,7 @@ const achievement = {
 
 **Full-Stack Pong Platform**
 – Real-time WebSockets gameplay
-- Multiplayer and AI opponent
+– JWT + 2FA secure authentication
 – Dockerized deployment & CI/CD
 
 </td>
@@ -309,7 +315,7 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+<img src="./melanie_nurse_dev.gif" />
 
 ### 💭 *“I approach code with the same precision as surgery—focused, reliable, and resilient.”*
 
