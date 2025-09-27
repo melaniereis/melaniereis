@@ -27,25 +27,6 @@
 
 <div align="center">
 
-### 🏆 **The Result** 🏆
-
-<table>
-<tr>
-<td align="center">
-
-  - ✅ **42 Porto Graduate**
-  - ✅ **11 months** from newborn to graduate
-
-</td>
-<td align="center">
-
-  - ✅ **Completed Common Core** (September 2025)
-  - ⚠️ **Learned from project failures**
-
-</td>
-</tr>
-</table>
-
 <details>
 <summary><b>💻 View the Code Behind the Journey</b></summary>
 
