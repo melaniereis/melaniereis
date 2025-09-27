@@ -33,14 +33,14 @@
 <tr>
 <td align="center">
 
-- ✅ **42 Porto Graduate**
-- ✅ **11 months** from newborn to graduate
+  ✅ **42 Porto Graduate**
+  ✅ **11 months** from newborn to graduate
 
 </td>
 <td align="center">
 
-- ✅ **Completed Common Core** (September 2025)
-- ⚠️ **Learned from project failures**
+  ✅ **Completed Common Core** (September 2025)
+  ⚠️ **Learned from project failures**
 
 </td>
 </tr>
@@ -105,9 +105,9 @@ const achievement = {
 <img src="https://img.shields.io/badge/cub3D-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
 
 **3D Raycasting Engine**
-– Raycasting from first principles
-– Texture mapping, collision detection
-– Performance-optimized with Valgrind
+- Raycasting from first principles
+- Texture mapping, collision detection
+- Performance-optimized with Valgrind
 
 </td>
 <td align="center" width="33%">
@@ -292,10 +292,10 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 </td>
 <td align="center">
 
-- 📍 **Ovar, Portugal** 🇵🇹
-- 🎓 **Status:** 42 Porto Graduate
-- 🎯 **Open to:** HealthTech & Automotive roles
-- 🌟 **Specialization:** Safety-critical systems
+  📍 **Ovar, Portugal** 🇵🇹
+  🎓 **Status:** 42 Porto Graduate
+  🎯 **Open to:** HealthTech & Automotive roles
+  🌟 **Specialization:** Safety-critical systems
 
 </td>
 </tr>
