@@ -1,4 +1,3 @@
-```markdown
 # 
 
 <div align="center">
@@ -287,4 +286,3 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 **Ready to build the future of HealthTech and Automotive together?** 🚀
 
 </div>
-```
