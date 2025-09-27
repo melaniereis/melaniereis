@@ -2,17 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=200&section=header&text=Melanie%20Reis&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=From%20Surgery%20to%20Software%20Engineering&descAlign=50&descAlignY=60&anim<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=120&section=footer" />
-
-### 💭 *"I approach code with the same precision as surgery—focused, reliable, and resilient."*
-
-**Ready to build the future of HealthTech and Automotive together?** 🚀
-
-</div>eIn" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=200&section=header&text=Melanie%20Reis&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=From%20Surgery%20to%20Software%20Engineering&descAlign=50&descAlignY=60&animation=fadeIn" />
 
 </div>
 
