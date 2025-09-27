@@ -1,4 +1,4 @@
-# 
+#
 
 <div align="center">
 
@@ -26,10 +26,10 @@
 
 While other students had 8+ hours daily, I coded between feedings, nap times, and 12-hour surgical shifts. I encountered multiple project failures along the way—but each retry taught me something new.
 
-**The Result:**  
-- ✅ **42 Porto Graduate**  
-- ✅ **Completed Common Core** (September 2025)  
-- ✅ **11 months** from newborn to graduate  
+**The Result:**
+- ✅ **42 Porto Graduate**
+- ✅ **Completed Common Core** (September 2025)
+- ✅ **11 months** from newborn to graduate
 - ⚠️ **Learned from project failures**
 
 *Proving that persistence and resilience overcome any obstacle.*
@@ -50,7 +50,7 @@ const achievement = {
   ],
   result: "42 Porto Graduate",
   failures: "Multiple project retries",
-  
+
   getInspiration() {
     return "Failure is feedback—keep going!";
   }
@@ -69,7 +69,7 @@ const achievement = {
 
 | Year       | Milestone                       | Details                                             |
 |:----------:|:--------------------------------|:----------------------------------------------------|
-| **2020**   | 🏥 **Surgical Nursing Career**   | Started as OR & Anesthesia specialist at ULSEDV      |
+| **2020**   | 🏥 **Surgical Nursing Career**   | Started as OR & Anesthesia nurse at ULSEDV         |
 | **Sep 2024** | 👶 **42 Piscine with Newborn**  | Began intensive coding with 1-month-old baby        |
 | **Oct 2024** | 💻 **42 Common Core**           | Started full curriculum while managing family & work |
 | **Sep 2025** | 🎓 **42 Porto Graduate**        | Completed Common Core this week                      |
@@ -89,9 +89,9 @@ const achievement = {
 
 <img src="https://img.shields.io/badge/cub3D-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
 
-**3D Raycasting Engine**  
-– Raycasting from first principles  
-– Texture mapping, collision detection  
+**3D Raycasting Engine**
+– Raycasting from first principles
+– Texture mapping, collision detection
 – Performance-optimized with Valgrind
 
 </td>
@@ -99,9 +99,9 @@ const achievement = {
 
 <img src="https://img.shields.io/badge/ft_transcendence-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
 
-**Full-Stack Pong Platform**  
-– Real-time WebSockets gameplay  
-– JWT + 2FA secure authentication  
+**Full-Stack Pong Platform**
+– Real-time WebSockets gameplay
+– JWT + 2FA secure authentication
 – Dockerized deployment & CI/CD
 
 </td>
@@ -109,9 +109,9 @@ const achievement = {
 
 <img src="https://img.shields.io/badge/webserv-100%2F100-blue?style=for-the-badge&logo=42&logoColor=white" />
 
-**HTTP Server from Scratch**  
-– HTTP/1.1 compliance & virtual hosting  
-– Concurrent connection management  
+**HTTP Server from Scratch**
+– HTTP/1.1 compliance & virtual hosting
+– Concurrent connection management
 – CGI support and robust parsing
 
 </td>
@@ -149,42 +149,69 @@ const achievement = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 🌐 Backend & Web Server Engineering
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![HTTP Server](https://img.shields.io/badge/HTTP_Server-FF6B35?style=for-the-badge&logo=apache&logoColor=white)
 
-**Systems Programming**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🎮 Graphics & Game Development
+![MiniLibX](https://img.shields.io/badge/MiniLibX-FF6B6B?style=for-the-badge&logo=opengl&logoColor=white)
+![Raycasting](https://img.shields.io/badge/3D_Raycasting-7C3AED?style=for-the-badge&logo=unity&logoColor=white)
+![WebSockets](https://img.shields.io/badge/Real--time_Gaming-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-</td>
-<td align="center" width="25%">
+### 🔧 Systems Programming & Concurrency
+![Threading](https://img.shields.io/badge/Multithreading-4A90E2?style=for-the-badge&logo=c&logoColor=white)
+![Memory Management](https://img.shields.io/badge/Memory_Management-FF6B35?style=for-the-badge&logo=c&logoColor=white)
+![Unix Signals](https://img.shields.io/badge/Unix_Signals-32CD32?style=for-the-badge&logo=linux&logoColor=white)
+![Socket Programming](https://img.shields.io/badge/Socket_Programming-00D9FF?style=for-the-badge&logo=c&logoColor=white)
 
-**Web Development**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🏗️ Algorithm Design & Data Structures
+![Algorithm Optimization](https://img.shields.io/badge/Algorithm_Optimization-7B68EE?style=for-the-badge&logo=algolia&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=c&logoColor=white)
+![Linked Lists](https://img.shields.io/badge/Linked_Lists-4A90E2?style=for-the-badge&logo=c&logoColor=white)
+![Custom Libraries](https://img.shields.io/badge/Custom_Libraries-32CD32?style=for-the-badge&logo=c&logoColor=white)
 
-</td>
-<td align="center" width="25%">
+### 🚀 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Backend & DevOps**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 🔐 Security
+![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-326CE5?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-</td>
-<td align="center" width="25%">
+### 🎨 Frontend Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Professional Skills**  
-🩺 **Healthcare:** 5 years surgery  
-🌍 **Languages:** PT/FR/EN/IT  
-⚡ **Mindset:** Growth & resilience
+### 🛠️ Development Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Makefile](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
+
+### 🏆 **Technical Expertise Summary**
+
+<div align="center">
+
+| Domain | Level | Key Projects |
+|:-------|:------|:-------------|
+| **🌐 Web Server Engineering** | Expert | Custom HTTP/1.1 server, CGI, concurrent connections |
+| **🎮 Graphics Programming** | Advanced | 3D raycasting engine, 2D game development, real-time rendering |
+| **⚡ Systems Programming** | Expert | Threading, IPC, memory management, Unix signals |
+| **🔧 Full-Stack Development** | Advanced | Multiplayer platform, WebSocket gaming |
+| **🐳 DevOps & Infrastructure** | Intermediate | Docker orchestration, service deployment, security |
+| **📊 Algorithm Design** | Advanced | Sorting optimization, data structures, performance analysis |
+
+**🎯 Specialization:** Safety-critical systems, real-time applications, performance optimization
 
 </div>
 
@@ -218,13 +245,13 @@ const achievement = {
 
 ### Starting October 2025
 
-**Bridging Healthcare & Automotive Technology**  
+**Bridging Healthcare & Automotive Technology**
 Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m ready to apply my surgical precision and growth mindset to automotive engineering.
 
-**Focus Areas:**  
-- 🩺 **In-vehicle Health Monitoring** – real-time driver wellness  
-- 🚨 **Emergency Response** – life-saving automation  
-- ⚡ **Safety-Critical Software** – zero-error applications  
+**Focus Areas:**
+- 🩺 **In-vehicle Health Monitoring** – real-time driver wellness
+- 🚨 **Emergency Response** – life-saving automation
+- ⚡ **Safety-Critical Software** – zero-error applications
 - 🧠 **Driver Assistance** – health-aware intelligence
 
 </td>
@@ -243,16 +270,16 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 <tr>
 <td align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanie.ferraz@ua.pt)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanie.ferraz@ua.pt)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melaniereis)
 
 </td>
 <td align="center">
 
-📍 **Ovar, Portugal** 🇵🇹  
-🎓 **Status:** 42 Porto Graduate  
-🎯 **Open to:** HealthTech & Automotive roles  
+📍 **Ovar, Portugal** 🇵🇹
+🎓 **Status:** 42 Porto Graduate
+🎯 **Open to:** HealthTech & Automotive roles
 🌟 **Specialization:** Safety-critical systems
 
 </td>
