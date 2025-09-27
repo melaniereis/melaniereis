@@ -1,4 +1,4 @@
-# 
+#
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🩺+5+Years+OR+%26+Anesthesia+Specialist;💻+42+Porto+Graduate+●+110%2F100;👶+Coded+with+1-month-old+newborn;🎯+Zero-error+surgical+mindset;🚀+SEA%3AME+Automotive+●+October+2025;💡+From+Life-Saving+to+Code-Crafting&font=Fira+Code&size=22&duration=4000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=120)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🩺+5+Years+OR+%26+Anesthesia+Specialist;💻+42+Porto+Student+●+Learning+Journey;👶+Coded+with+1-month-old+newborn;💪+Resilience+Through+Challenges;🚀+SEA%3AME+Automotive+●+October+2025;✨+Growth+Through+Perseverance&font=Fira+Code&size=22&duration=4000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=120)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,15 +28,15 @@
 
 ```mermaid
 timeline
-    title The Impossible Timeline
+    title The Learning Journey
     September 2024 : 👶 1-month newborn : 🏥 Full-time surgery : 💻 42 Piscine starts
     October 2024   : 📚 Common Core : 😴 2-3h sleep/night : 🧒 2-year-old chaos
-    September 2025 : 🎓 Graduate : ⭐ 110/100 score : 🏆 Zero failures
+    September 2025 : 📖 Still Learning : 💪 Overcoming setbacks : � Growing stronger
 ```
 
 **Coding between surgeries, feedings, and sleepless nights**
 
-*When everyone said "impossible," I made it inevitable.*
+*When the path got tough, I chose to keep learning.*
 
 </div>
 
@@ -44,30 +44,30 @@ timeline
 <td width="4%"></td>
 <td width="48%" align="center">
 
-### 🏆 **The Achievement**
+### 🏆 **The Real Journey**
 
 <div align="center">
 
-<img width="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="200" src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" />
 
 ```typescript
-const impossibleJourney = {
+const realJourney = {
   duration: "11 months",
   obstacles: [
     "👶 Newborn care 24/7",
-    "🧒 Active 2-year-old", 
+    "🧒 Active 2-year-old",
     "🏥 Life-critical surgeries",
-    "💻 Intensive coding bootcamp",
+    "💻 Intensive coding challenges",
     "😴 Extreme sleep deprivation"
   ],
-  result: {
-    score: "110/100",
-    failures: 0,
-    mindset: "surgical_precision"
+  reality: {
+    failures: "Multiple retries",
+    struggles: "Real and challenging",
+    mindset: "never_give_up"
   }
 };
 
-console.log("Proving limits are illusions ✨");
+console.log("Learning from every setback 💪");
 ```
 
 </div>
@@ -95,9 +95,9 @@ console.log("Proving limits are illusions ✨");
 
 <img width="80" src="https://cdn-icons-png.flaticon.com/512/1802/1802020.png" />
 
-**2020**  
-🏥 **Surgical Career**  
-*OR & Anesthesia*  
+**2020**
+🏥 **Surgical Career**
+*OR & Anesthesia*
 *ULSEDV Hospital*
 
 </td>
@@ -105,9 +105,9 @@ console.log("Proving limits are illusions ✨");
 
 <img width="80" src="https://cdn-icons-png.flaticon.com/512/2800/2800007.png" />
 
-**Sep 2024**  
-👶 **Impossible Start**  
-*42 Piscine*  
+**Sep 2024**
+👶 **Ambitious Start**
+*42 Piscine*
 *1-month newborn*
 
 </td>
@@ -115,29 +115,29 @@ console.log("Proving limits are illusions ✨");
 
 <img width="80" src="https://cdn-icons-png.flaticon.com/512/1055/1055645.png" />
 
-**Oct 2024**  
-💻 **Core Journey**  
-*20+ Projects*  
-*Zero failures*
+**Oct 2024**
+💻 **Learning Journey**
+*Projects & Challenges*
+*Some retries*
 
 </td>
 <td align="center" width="20%">
 
 <img width="80" src="https://cdn-icons-png.flaticon.com/512/2463/2463510.png" />
 
-**Sep 2025**  
-🎓 **Excellence**  
-*110/100 Graduate*  
-*Mission accomplished*
+**Sep 2025**
+📚 **Still Growing**
+*Continuous Learning*
+*Perseverance*
 
 </td>
 <td align="center" width="20%">
 
 <img width="80" src="https://cdn-icons-png.flaticon.com/512/3774/3774299.png" />
 
-**Oct 2025**  
-🚀 **Next Level**  
-*SEA:ME Automotive*  
+**Oct 2025**
+🚀 **Next Level**
+*SEA:ME Automotive*
 *HealthTech Focus*
 
 </td>
@@ -147,62 +147,137 @@ console.log("Proving limits are illusions ✨");
 
 ---
 
-## 🏆 42 Porto Mastery
+## � The Learning Journey
 
 <div align="center">
 
-### 🌟 **Hall of Excellence**
+### 💪 **Embracing Growth Through Challenges**
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 25px; margin: 20px; color: white;">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎯 **The Reality**
+
+```mermaid
+graph TD
+    A[🏥 Healthcare Professional] --> B[👶 New Parent]
+    B --> C[💻 42 School Challenge]
+    C --> D{📈 Project Attempts}
+    D -->|First Try| E[❌ Some Failures]
+    D -->|Retry| F[⚠️ Learning Curve]
+    D -->|Persistence| G[✅ Success]
+    E --> H[📚 Study More]
+    F --> H
+    H --> D
+    G --> I[🌱 Personal Growth]
+```
+
+**Every failure taught me something valuable**
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 **The Mindset**
+
+<div style="background: rgba(255,255,255,0.1); border-radius: 15px; padding: 20px; margin: 10px;">
+
+**✨ Key Lessons Learned:**
+
+🔄 **Failure is feedback, not final**
+💪 **Persistence beats perfection**
+🧠 **Growth mindset over ego**
+👥 **Asking for help is strength**
+⏰ **Progress over speed**
+🎯 **Each retry builds resilience**
+
+*"The best developers aren't those who never fail, but those who learn from every failure."*
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 📊 **Honest Progress Tracking**
+
+<div align="center">
+
+| 🎯 Skill Area | 📈 Progress | 💭 Learning Notes |
+|:-------------|:-----------:|:------------------|
+| **C Programming** | 🟩🟩🟩🟨⬜ 70% | *Solid foundation, still improving* |
+| **Algorithms** | 🟩🟩🟨⬜⬜ 60% | *Complex problems need more practice* |
+| **System Programming** | 🟩🟩🟩⬜⬜ 65% | *Understanding deepens with each project* |
+| **Web Development** | 🟩🟩🟩🟩⬜ 80% | *Frontend skills growing stronger* |
+| **Problem Solving** | 🟩🟩🟩🟩🟨 85% | *Healthcare experience helps here* |
+| **Debugging** | 🟩🟩🟩🟩⬜ 75% | *Getting better at finding root causes* |
+
+</div>
+
+</div>
+
+---
+
+## 🏆 42 Porto Learning Experience
+
+<div align="center">
+
+### 🌟 **Projects & Learning**
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-<div style="background: linear-gradient(45deg, #FFD700, #FFA500); border-radius: 10px; padding: 15px;">
+<div style="background: linear-gradient(45deg, #4CAF50, #45a049); border-radius: 10px; padding: 15px;">
 
-<img src="https://img.shields.io/badge/cub3D-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/libft-Completed-success?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
 
-**🎮 3D Graphics Engine**  
-*Raycasting from scratch*  
-*OpenGL mastery*
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="background: linear-gradient(45deg, #32CD32, #228B22); border-radius: 10px; padding: 15px;">
-
-<img src="https://img.shields.io/badge/transcendence-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
-
-**🌐 Full-Stack Platform**  
-*Real-time multiplayer*  
-*WebSocket mastery*
+**📚 C Library Recreation**
+*Foundation building*
+*Memory management*
 
 </div>
 
 </td>
 <td align="center" width="25%">
 
-<div style="background: linear-gradient(45deg, #1E90FF, #4169E1); border-radius: 10px; padding: 15px;">
+<div style="background: linear-gradient(45deg, #FF9800, #F57C00); border-radius: 10px; padding: 15px;">
 
-<img src="https://img.shields.io/badge/webserv-100%2F100-blue?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/get_next_line-In_Progress-orange?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
 
-**🌍 HTTP Server**  
-*Built from ground up*  
-*Protocol expertise*
+**📖 File Reading**
+*Learning file I/O*
+*Dynamic allocation*
 
 </div>
 
 </td>
 <td align="center" width="25%">
 
-<div style="background: linear-gradient(45deg, #FF1493, #DC143C); border-radius: 10px; padding: 15px;">
+<div style="background: linear-gradient(45deg, #2196F3, #1976D2); border-radius: 10px; padding: 15px;">
 
-<img src="https://img.shields.io/badge/minishell-99%2F100-red?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/printf-Learning-blue?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
 
-**🐚 Shell Implementation**  
-*Bash-like functionality*  
-*Process mastery*
+**🖨️ Printf Recreation**
+*Variadic functions*
+*Format handling*
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div style="background: linear-gradient(45deg, #9C27B0, #7B1FA2); border-radius: 10px; padding: 15px;">
+
+<img src="https://img.shields.io/badge/push_swap-Challenge-purple?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" />
+
+**� Algorithm Challenge**
+*Sorting optimization*
+*Multiple attempts*
 
 </div>
 
@@ -211,38 +286,31 @@ console.log("Proving limits are illusions ✨");
 </table>
 
 <details>
-<summary><b>📂 Complete Project Portfolio (Click to expand all 20+ projects)</b></summary>
+<summary><b>📂 Complete Learning Portfolio (Click to see my journey)</b></summary>
 
 <br>
 
 <div align="center">
 
-| 🏆 Project | 📊 Score | 🔧 Core Skills | 🚀 Complexity | 📈 Impact |
+| � Project | 📊 Status | 🔧 Core Skills | 🚀 Complexity | � Learnings |
 |:-----------|:--------:|:---------------|:----------:|:---------:|
-| **ft_transcendence** | <img src="https://img.shields.io/badge/110-100-brightgreen?style=flat" /> | Full-Stack, WebSockets, Real-time Gaming | 🔴 **Master** | Revolutionary |
-| **cub3D** | <img src="https://img.shields.io/badge/125-100-gold?style=flat" /> | 3D Graphics, Raycasting, MLX Graphics | 🔴 **Master** | Game-changing |
-| **webserv** | <img src="https://img.shields.io/badge/100-100-blue?style=flat" /> | HTTP Protocol, Server Architecture | 🔴 **Master** | Professional |
-| **minishell** | <img src="https://img.shields.io/badge/99-100-blue?style=flat" /> | Process Management, Advanced Parsing | 🔴 **Master** | System-level |
-| **Inception** | <img src="https://img.shields.io/badge/100-100-blue?style=flat" /> | Docker, DevOps, Container Orchestration | 🟡 **Advanced** | Industry-ready |
-| **Philosophers** | <img src="https://img.shields.io/badge/100-100-blue?style=flat" /> | Threading, Synchronization, Race Conditions | 🟡 **Advanced** | Concurrency |
-| **push_swap** | <img src="https://img.shields.io/badge/100-100-blue?style=flat" /> | Algorithm Optimization, Sorting | 🟡 **Advanced** | Mathematical |
-| **so_long** | <img src="https://img.shields.io/badge/115-100-brightgreen?style=flat" /> | 2D Game Development, Graphics | 🟡 **Advanced** | Creative |
-| **minitalk** | <img src="https://img.shields.io/badge/116-100-brightgreen?style=flat" /> | UNIX Signals, Inter-Process Communication | 🟡 **Advanced** | System IPC |
-| **ft_printf** | <img src="https://img.shields.io/badge/100-100-blue?style=flat" /> | Variadic Functions, Format Specifiers | 🟢 **Solid** | Fundamental |
-| **get_next_line** | <img src="https://img.shields.io/badge/125-100-gold?style=flat" /> | File I/O, Dynamic Memory Management | 🟢 **Solid** | Essential |
-| **libft** | <img src="https://img.shields.io/badge/125-100-gold?style=flat" /> | C Library Recreation, Memory Management | 🟢 **Solid** | Foundation |
-| **Born2beroot** | <img src="https://img.shields.io/badge/106-100-brightgreen?style=flat" /> | System Administration, Security | 🟢 **Solid** | Infrastructure |
-| **CPP Modules 00-09** | <img src="https://img.shields.io/badge/95~100-100-blue?style=flat" /> | Object-Oriented Programming, STL | 🟡 **Advanced** | Modern C++ |
+| **libft** | <img src="https://img.shields.io/badge/✅-Completed-brightgreen?style=flat" /> | C Library, Memory Management | � **Foundation** | Memory safety |
+| **get_next_line** | <img src="https://img.shields.io/badge/🔄-In_Progress-orange?style=flat" /> | File I/O, Dynamic Memory | � **Foundation** | Buffer management |
+| **ft_printf** | <img src="https://img.shields.io/badge/📚-Learning-blue?style=flat" /> | Variadic Functions, Formatting | � **Intermediate** | Parameter handling |
+| **Born2beroot** | <img src="https://img.shields.io/badge/🔍-Exploring-purple?style=flat" /> | System Administration | 🟡 **Intermediate** | Linux mastery |
+| **push_swap** | <img src="https://img.shields.io/badge/💪-Challenge-red?style=flat" /> | Algorithms, Optimization | � **Advanced** | Problem solving |
+| **minitalk** | <img src="https://img.shields.io/badge/⏳-Planned-gray?style=flat" /> | UNIX Signals, IPC | 🟡 **Intermediate** | Process communication |
+| **so_long** | <img src="https://img.shields.io/badge/🎮-Future-lightblue?style=flat" /> | 2D Game, Graphics | � **Intermediate** | Game development |
 
 </div>
 
 <div align="center">
 
-**🎯 Performance Metrics**
-- ✅ **Zero failed evaluations** across all projects
-- 🏆 **Perfect attendance** despite family challenges
-- ⚡ **Consistent excellence** under extreme pressure
-- 💯 **110/100 final score** - Top tier achievement
+**🎯 Learning Metrics**
+- 📚 **Active learning** with multiple retries when needed
+- 💪 **Growth mindset** - every failure teaches something
+- 🎯 **Healthcare precision** applied to debugging
+- 🌱 **Continuous improvement** over perfection
 
 </div>
 
@@ -322,10 +390,10 @@ console.log("Proving limits are illusions ✨");
 
 <br>
 
-🏥 **5 years surgery**  
-🌍 **4 languages**  
-⚡ **Crisis management**  
-🎯 **Zero-error mindset**  
+🏥 **5 years surgery**
+🌍 **4 languages**
+⚡ **Crisis management**
+🎯 **Zero-error mindset**
 
 *Healthcare precision*
 
@@ -335,38 +403,39 @@ console.log("Proving limits are illusions ✨");
 </tr>
 </table>
 
-### ⚡ **The Surgical Developer Advantage**
+### ⚡ **The Healthcare Developer Journey**
 
 ```cpp
-class SurgicalDeveloper {
+class HealthcareDeveloper {
 private:
     struct Experience {
         int healthcare_years = 5;
         int surgeries_completed = 500;
-        double error_tolerance = 0.0;
-        bool crisis_tested = true;
+        double perfectionism = 0.95;  // High, but human
+        bool learning_from_mistakes = true;
     };
-    
+
     struct Skills {
         vector<string> languages = {"Portuguese", "French", "English", "Italian"};
-        string mindset = "surgical_precision";
-        bool pressure_tested = true;
+        string mindset = "growth_oriented";
+        bool handles_pressure = true;
+        bool embraces_failure_as_learning = true;
     };
 
 public:
     string getUniqueProposition() {
-        return "🩺 Healthcare precision meets 💻 technical excellence\n"
-               "✅ Proven under extreme pressure\n"
-               "🎯 Zero-error surgical mindset\n"
-               "🚀 Crisis management expertise";
+        return "🩺 Healthcare precision meets 💻 coding passion\n"
+               "✅ Proven resilience under pressure\n"
+               "� Growth mindset through challenges\n"
+               "🚀 Learning from every setback";
     }
-    
-    bool canDeliverUnderPressure() {
-        return true; // Proven in OR and coding bootcamp with newborn
+
+    bool canLearnFromFailure() {
+        return true; // Essential skill in both surgery and coding
     }
-    
-    string getFutureVision() {
-        return "Bridging healthcare and automotive for life-saving tech 🚗💚";
+
+    string getCurrentFocus() {
+        return "Building solid fundamentals while balancing family life 👨‍👩‍�‍�";
     }
 };
 ```
@@ -375,7 +444,85 @@ public:
 
 ---
 
-## 📊 GitHub Analytics & Performance
+## � The Power of Perseverance
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌱 **Growth Mindset in Action**
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; color: white; margin: 10px;">
+
+**📚 Learning Philosophy:**
+
+🔄 **Embrace the Retry**
+*Every failed attempt teaches something new*
+
+💪 **Resilience Over Perfection**
+*Healthcare taught me that precision comes with practice*
+
+🤝 **Community Learning**
+*Asking for help is a superpower*
+
+⏰ **Balance is Key**
+*Family first, coding passion second, but both matter*
+
+🎯 **Progress Over Speed**
+*Sustainable learning with a newborn and toddler*
+
+</div>
+
+</td>
+<td width="50%" align="center">
+
+### 🏥➡️💻 **Transferable Skills**
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 25px; color: white; margin: 10px;">
+
+**From OR to IDE:**
+
+🧠 **Problem-Solving Under Pressure**
+*Life-critical decisions → Debug critical code*
+
+🔍 **Attention to Detail**
+*Patient safety → Code quality*
+
+📚 **Continuous Learning**
+*Medical updates → New technologies*
+
+👥 **Team Collaboration**
+*Surgical teams → Dev teams*
+
+⏰ **Time Management**
+*Surgery schedules → Project deadlines*
+
+🌟 **Empathy & Communication**
+*Patient care → User experience*
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div style="background: rgba(255,255,255,0.1); border-radius: 15px; padding: 20px; margin: 20px;">
+
+### 💭 **Honest Reflections**
+
+*"Some days I code between feeding sessions at 3 AM. Some projects take me multiple attempts. Some concepts need weeks to click. But every small step forward feels like a victory when you're juggling healthcare work, family life, and learning to code."*
+
+**🚀 The journey isn't about being perfect—it's about being persistent.**
+
+</div>
+
+</div>
+
+---
+
+## �📊 GitHub Analytics & Performance
 
 <div align="center">
 
@@ -384,7 +531,7 @@ public:
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=donut&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" />
 
-### 🏆 **Achievement Showcase**
+### 🏆 **Learning Progress Showcase**
 
 <div align="center">
 
@@ -392,11 +539,51 @@ public:
 
 </div>
 
+### 📈 **Coding Activity Visualization**
+
+<div align="center">
+
+[![Melanie's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=melaniereis&custom_title=Learning%20Journey%20-%20Consistent%20Growth&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+### ⚡ **Real-time Metrics**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/42_Student-Learning-blue?style=for-the-badge&logo=42&logoColor=white" />
+
+**Current Status**
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Parent_Developer-Balancing-purple?style=for-the-badge&logo=family&logoColor=white" />
+
+**Life Balance**
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Healthcare_Pro-5_Years-green?style=for-the-badge&logo=medical-cross&logoColor=white" />
+
+**Experience**
+
+</td>
+</tr>
+</table>
+
+</div>
+
 </div>
 
 ---
 
-## 🚀 Next Chapter: SEA:ME Automotive Revolution
+## 🚀 Next Chapter: Continuing the Journey
 
 <div align="center">
 
@@ -404,36 +591,36 @@ public:
 <tr>
 <td width="35%" align="center">
 
-<img width="250" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+<img width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 </td>
 <td width="65%">
 
-### 🎯 **October 2025: The Future Begins**
+### 🎯 **Learning Goals & Aspirations**
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; color: white;">
 
-**🚗 Bridging Healthcare & Automotive Technology**
+**🌱 Current Learning Focus**
 
-Applying surgical precision and zero-error mindset to automotive engineering. The same life-saving attention to detail from the OR will now contribute to safety-critical automotive systems.
+Building strong fundamentals while managing family life and healthcare responsibilities. Every small step counts, and I'm learning to celebrate progress over perfection.
 
-### 🎯 **Strategic Focus Areas:**
+### 🎯 **Areas of Interest:**
 
-🩺 **In-vehicle Health Monitoring**  
-*Real-time driver wellness & emergency detection*
+🩺 **HealthTech Applications**
+*Combining medical knowledge with technology*
 
-🚨 **Emergency Response Integration**  
-*Life-saving automotive technology & rapid response*
+� **Automotive Safety Systems**
+*SEA:ME program aspiration for October 2025*
 
-⚡ **Safety-Critical Software**  
-*Zero-error automotive applications & reliability*
+💻 **Full-Stack Development**
+*Building complete solutions*
 
-🧠 **Driver Assistance Systems**  
-*Health-aware automotive intelligence & prevention*
+� **Problem-Solving Algorithms**
+*The logical puzzle-solving aspect*
 
 </div>
 
-*"From saving lives in surgery to saving lives through technology"*
+*"Every expert was once a beginner who refused to give up"*
 
 </td>
 </tr>
@@ -457,8 +644,8 @@ Applying surgical precision and zero-error mindset to automotive engineering. Th
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5)
 
-**Professional Network**  
-*Career opportunities*  
+**Professional Network**
+*Career opportunities*
 *Industry connections*
 
 </div>
@@ -470,8 +657,8 @@ Applying surgical precision and zero-error mindset to automotive engineering. Th
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melanie.ferraz@ua.pt)
 
-**Direct Contact**  
-*Project collaborations*  
+**Direct Contact**
+*Project collaborations*
 *Technical discussions*
 
 </div>
@@ -483,8 +670,8 @@ Applying surgical precision and zero-error mindset to automotive engineering. Th
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melaniereis)
 
-**Code Portfolio**  
-*Open source projects*  
+**Code Portfolio**
+*Open source projects*
 *Technical expertise*
 
 </div>
@@ -493,15 +680,15 @@ Applying surgical precision and zero-error mindset to automotive engineering. Th
 </tr>
 </table>
 
-### 📍 **Location & Opportunities**
+### 📍 **Current Status & Opportunities**
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; color: white; margin: 20px;">
 
-🌍 **Based in Ovar, Portugal** 🇵🇹  
-🎯 **Seeking:** HealthTech & Automotive Engineering roles  
-💼 **Specialization:** Safety-critical systems & precision engineering  
-🚀 **Mission:** Bridging healthcare expertise with cutting-edge technology  
-✨ **Unique Value:** Surgical precision meets software excellence
+🌍 **Based in Ovar, Portugal** 🇵🇹
+🎯 **Currently:** Strengthening programming fundamentals at 42 Porto
+💼 **Interested in:** Junior developer roles & learning opportunities
+🚀 **Vision:** Combining healthcare experience with technology
+✨ **Strength:** Resilience, growth mindset, and healthcare precision
 
 </div>
 
@@ -519,13 +706,13 @@ Applying surgical precision and zero-error mindset to automotive engineering. Th
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 
-### 💭 *"I approach code with the same precision as surgery—focused, reliable, and life-impacting."*
+### 💭 *"I approach code like I approach patient care—with dedication, continuous learning, and the understanding that every challenge is a chance to grow."*
 
-**Ready to revolutionize HealthTech and Automotive together? Let's connect! 🚀**
+**Ready to learn, grow, and contribute? Let's connect! 🚀**
 
 <div style="font-size: 24px; margin: 20px;">
 
-✨ **From saving lives in the OR to crafting code that matters** ✨
+✨ **From healthcare precision to coding passion—learning every day** ✨
 
 </div>
 
