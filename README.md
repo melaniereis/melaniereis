@@ -2,197 +2,305 @@
 
 <div align="center">
   
-```ascii
-███╗   ███╗███████╗██╗      █████╗ ███╗   ██╗██╗███████╗    ██████╗ ███████╗██╗███████╗
-████╗ ████║██╔════╝██║     ██╔══██╗████╗  ██║██║██╔════╝    ██╔══██╗██╔════╝██║██╔════╝
-██╔████╔██║█████╗  ██║     ███████║██╔██╗ ██║██║█████╗      ██████╔╝█████╗  ██║███████╗
-██║╚██╔╝██║██╔══╝  ██║     ██╔══██║██║╚██╗██║██║██╔══╝      ██╔══██╗██╔══╝  ██║╚════██║
-██║ ╚═╝ ██║███████╗███████╗██║  ██║██║ ╚████║██║███████╗    ██║  ██║███████╗██║███████║
-╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝
-```
+<!-- Dynamic animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,3,20&height=300&section=header&text=Melanie%20Reis&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=From%20Surgery%20to%20Code%20|%20Precision%20Engineering%20|%205%20Years%20Healthcare&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🩺+5+Years+Surgical+Nurse+%7C+500%2B+Surgeries;💻+42+Porto+Graduate+%7C+110%2F100+Score;👶+Coded+through+pregnancy+%26+newborn;🚀+SEA:ME+Automotive+%7C+Oct+2025;🌍+PT+•+FR+•+EN+•+IT+•+Code;⚡+Zero-error+mindset+%7C+Life-critical+precision&font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&height=100" />
+<!-- Typing animation header -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🩺+5+Years+Surgical+Nurse+%7C+500%2B+Surgeries;💻+42+Porto+Graduate+%7C+110%2F100+Score;👶+Coded+through+pregnancy+%26+newborn;🚀+SEA:ME+Automotive+%7C+Oct+2025;🌍+PT+•+FR+•+EN+•+IT+•+Code;⚡+Zero-error+mindset+%7C+Life-critical+precision&font=JetBrains+Mono&size=24&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=1000&height=120" />
 
 </div>
 
 ---
 
-## 📖 **My Journey**
+## 🌟 **About Me**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="300"/>
+      </td>
+      <td width="60%">
+
+```typescript
+const developer: DeveloperProfile = {
+  name: "Melanie Reis",
+  location: "Ovar, Portugal 🇵🇹",
+  background: {
+    healthcare: "5 years surgical nurse",
+    surgeries: "500+ completed",
+    errorRate: 0,
+    currentRole: "OR & Anesthesia"
+  },
+  coding: {
+    school: "42 Porto Graduate",
+    finalScore: "110/100",
+    specialization: "Systems Programming",
+    nextStep: "SEA:ME Automotive"
+  },
+  languages: ["Portuguese", "French", "English", "Italian", "C++"],
+  philosophy: "Applying surgical precision to reliable software",
+  motivation: "Building technology that saves lives"
+};
+```
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 **My Journey**
+
+<div align="center">
+
+### 🏥 **Healthcare → Code**
+
+```mermaid
+timeline
+    title My Professional Evolution
+    2020 : Started as OR Nurse
+         : Anesthesia & Surgery
+         : High-pressure environment
+    2023 : Discovered Programming
+         : Started 42 School
+         : Coding while pregnant
+    2024 : 42 Porto Graduate
+         : 110/100 Final Score
+         : 20+ projects completed  
+    2025 : Career Transition
+         : Joining SEA:ME
+         : Automotive Engineering
+```
+
+</div>
+
+---
+
+## 💻 **42 Porto Achievements**
+
+<div align="center">
+
+### 🏆 **Project Hall of Fame**
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="20%">
 
-### 🏥 **Healthcare Background**
-```python
-surgical_stats = {
-    "years_in_or": 5,
-    "surgeries_completed": "500+",
-    "lives_impacted": "countless",
-    "precision_required": "100%",
-    "margin_for_error": 0,
-    "pressure_level": "high",
-    "teamwork": "essential"
-}
-```
-
-**Key Learnings:**
-- 🎯 **Attention to Detail** - Errors have real consequences
-- ⚡ **High-Pressure Delivery** - Perform reliably in critical situations  
-- 🧠 **Systems Thinking** - Understand interconnected processes
-- 👥 **Team Coordination** - Collaborate effectively in high-stakes environments
+**`cub3D`**
+<br>
+<img src="https://img.shields.io/badge/Score-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
+<br>
+<sub>3D Raycasting Engine</sub>
 
 </td>
-<td width="50%">
+<td align="center" width="20%">
 
-### 💻 **Transition to Coding**
-```javascript
-const transformation = {
-    challenge: "Learn to code while:",
-    conditions: [
-        "👶 Caring for a newborn",
-        "🏥 Working full-time in healthcare", 
-        "😴 Managing limited sleep",
-        "🤱 Balancing family responsibilities"
-    ],
-    result: "42 Porto Graduate - 110/100",
-    takeaway: "Adaptability and perseverance pay off"
-};
-```
+**`transcendence`**
+<br>
+<img src="https://img.shields.io/badge/Score-110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" />
+<br>
+<sub>Full-Stack Pong Game</sub>
+
+</td>
+<td align="center" width="20%">
+
+**`webserv`**
+<br>
+<img src="https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge&logo=42&logoColor=white" />
+<br>
+<sub>HTTP Server</sub>
+
+</td>
+<td align="center" width="20%">
+
+**`minishell`**
+<br>
+<img src="https://img.shields.io/badge/Score-99%2F100-success?style=for-the-badge&logo=42&logoColor=white" />
+<br>
+<sub>Bash Implementation</sub>
+
+</td>
+<td align="center" width="20%">
+
+**`get_next_line`**
+<br>
+<img src="https://img.shields.io/badge/Score-125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" />
+<br>
+<sub>File Reading Function</sub>
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>📂 View All Projects Portfolio</b></summary>
 
-## 🎓 **42 Porto Achievements**
+<br>
 
-<div align="center">
+<div align="left">
 
-### 📊 **Project Scores Breakdown**
-
-| **Project** | 📊 **Score** | 💎 **Complexity** | 🧠 **Skills Developed** |
-|:------------|:-------------|:------------------|:------------------------|
-| **`cub3D`** | <img src="https://img.shields.io/badge/125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" /> | High | 3D Raycasting, Graphics Programming |
-| **`get_next_line`** | <img src="https://img.shields.io/badge/125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" /> | Medium | Memory Management, File I/O |
-| **`Libft`** | <img src="https://img.shields.io/badge/125%2F100-gold?style=for-the-badge&logo=42&logoColor=white" /> | Medium | C Standard Library Recreation |
-| **`ft_transcendence`** | <img src="https://img.shields.io/badge/110%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" /> | High | Full-Stack Web Development |
-| **`minitalk`** | <img src="https://img.shields.io/badge/116%2F100-brightgreen?style=for-the-badge&logo=42&logoColor=white" /> | Medium | UNIX Signals & IPC |
-| **`webserv`** | <img src="https://img.shields.io/badge/100%2F100-success?style=for-the-badge&logo=42&logoColor=white" /> | High | HTTP Server from Scratch |
-| **`minishell`** | <img src="https://img.shields.io/badge/99%2F100-success?style=for-the-badge&logo=42&logoColor=white" /> | High | Shell Implementation |
+| **Project** | **Score** | **Skills Developed** | **Complexity** |
+|:------------|:---------:|:-------------------|:--------------:|
+| **`ft_transcendence`** | `110/100` | Full-Stack Web Development, WebSockets | 🔴 High |
+| **`cub3D`** | `125/100` | 3D Graphics, Raycasting, Game Development | 🔴 High |
+| **`webserv`** | `100/100` | HTTP Protocol, Server Architecture | 🔴 High |
+| **`minishell`** | `99/100` | System Programming, Process Management | 🔴 High |
+| **`Inception`** | `100/100` | Docker, DevOps, Container Orchestration | 🟡 Medium |
+| **`Philosophers`** | `100/100` | Threading, Synchronization, Deadlock Prevention | 🟡 Medium |
+| **`push_swap`** | `100/100` | Algorithm Optimization, Sorting | 🟡 Medium |
+| **`so_long`** | `115/100` | 2D Game Development, Graphics | 🟡 Medium |
+| **`minitalk`** | `116/100` | UNIX Signals, Inter-Process Communication | 🟡 Medium |
+| **`get_next_line`** | `125/100` | File I/O, Memory Management | 🟢 Basic |
+| **`ft_printf`** | `100/100` | Variadic Functions, String Formatting | 🟢 Basic |
+| **`libft`** | `125/100` | C Standard Library, String Manipulation | 🟢 Basic |
+| **`Born2beroot`** | `106/100` | System Administration, Linux | 🟢 Basic |
+| **`NetPractice`** | `100/100` | Network Configuration, TCP/IP | 🟢 Basic |
+| **CPP Modules (00-09)** | `95-100/100` | Object-Oriented Programming, C++ | 🟡 Medium |
 
 </div>
 
-<details>
-<summary><b>📂 View All 20+ Projects</b></summary>
-
-```cpp
-// Complete project list
-std::map<std::string, ProjectStats> all_projects = {
-    {"so_long",         {115, "2D Game Engine"}},
-    {"push_swap",       {100, "Sorting Algorithm Optimization"}},
-    {"Philosophers",    {100, "Threading & Synchronization"}},
-    {"Born2beroot",     {106, "System Administration"}},
-    {"NetPractice",     {100, "Network Configuration"}},
-    {"Inception",       {100, "Docker Containerization"}},
-    {"ft_printf",       {100, "Printf Implementation"}},
-    {"CPP_Modules_00",  {100, "OOP Introduction"}},
-    {"CPP_Modules_01",  {95,  "Memory Allocation"}},
-    {"CPP_Modules_02",  {98,  "Ad-hoc Polymorphism"}},
-    {"CPP_Modules_03",  {100, "Inheritance"}},
-    {"CPP_Modules_04",  {97,  "Subtype Polymorphism"}},
-    {"CPP_Modules_05",  {95,  "Exceptions"}},
-    {"CPP_Modules_06",  {100, "C++ Casts"}},
-    {"CPP_Modules_07",  {98,  "Templates"}},
-    {"CPP_Modules_08",  {95,  "Templated Containers"}},
-    {"CPP_Modules_09",  {97,  "STL Algorithms"}}
-};
-// Achievement: 42 Porto Graduate with 110/100 final score
-```
-
 </details>
+
+</div>
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ **Technical Arsenal**
 
 <div align="center">
 
-```bash
-#!/bin/bash
-# My core competencies
+### 💎 **Core Technologies**
 
-declare -A skills=(
-    # Systems Programming
-    ["C/C++"]="Advanced - Built 3D engines, HTTP servers, shells"
-    ["Memory_Management"]="Precise handling - No leaks, efficient allocation"
-    ["System_Calls"]="UNIX/Linux expertise - Process control, signals, IPC"
-    
-    # Modern Stack
-    ["Python"]="Automation, algorithms, data structures"
-    ["JavaScript/TypeScript"]="Full-stack web development"
-    ["React"]="Interactive UIs with state management"
-    
-    # Infrastructure & DevOps
-    ["Docker"]="Containerization - Multi-service setups"
-    ["PostgreSQL"]="Database design and optimization"
-    ["Nginx"]="Web server configuration"
-    ["Git"]="Workflow management and collaboration"
-    
-    # Professional Strengths
-    ["Medical_Knowledge"]="5 years in surgery - Crisis management"
-    ["Multilingual"]="PT/FR/EN/IT - Effective communication"
-    ["Precision_Engineering"]="Focus on reliable, high-stakes systems"
-)
-```
-
-### 🔧 **Specialized Areas**
-
-<table align="center">
+<table>
 <tr>
 <td align="center">
 
 **Systems Programming**
-```c
-int handle_complexity(void)
-{
-    char *tools[] = {
-        "C/C++ Expertise",
-        "Memory Management", 
-        "UNIX System Calls",
-        "Multi-threading",
-        "Network Programming"
-    };
-    return SUCCESS;
-}
-```
+<br><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash" />
+<br>
+<sub>C/C++ • Linux • Shell • Systems</sub>
 
 </td>
 <td align="center">
 
 **Web Development**
-```javascript
-const webStack = {
-    frontend: ['React', 'TypeScript', 'CSS3'],
-    backend: ['Node.js', 'PostgreSQL', 'Nginx'],
-    deployment: ['Docker', 'CI/CD', 'Linux'],
-    focus: 'Real-time applications'
-};
-```
+<br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
+<br>
+<sub>JavaScript • TypeScript • React • Node.js</sub>
 
 </td>
 <td align="center">
 
-**Precision Engineering**
-```python
-class ReliableEngineer:
-    def __init__(self):
-        self.error_tolerance = 0
-        self.precision = "high"
-        self.crisis_management = True
-        self.experience_years = 5
+**DevOps & Tools**
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,postgres,nginx,git" />
+<br>
+<sub>Docker • PostgreSQL • Nginx • Git</sub>
+
+</td>
+<td align="center">
+
+**Specialized Skills**
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,html,css,markdown" />
+<br>
+<sub>Python • HTML • CSS • Documentation</sub>
+
+</td>
+</tr>
+</table>
+
+### 🔧 **Professional Strengths**
+
+```javascript
+const uniqueSkills = {
+  medical: {
+    experience: "5 years in surgery",
+    surgeries: "500+ completed",
+    specialization: "OR & Anesthesia",
+    skills: ["Crisis Management", "Precision Under Pressure", "Team Coordination"]
+  },
+  
+  technical: {
+    education: "42 School Graduate",
+    score: "110/100",
+    projects: 20,
+    specialization: ["Systems Programming", "Web Development", "3D Graphics"]
+  },
+  
+  personal: {
+    languages: ["PT", "FR", "EN", "IT"],
+    achievements: ["Coded during pregnancy", "Balanced family & studies"],
+    mindset: ["Zero-error approach", "Continuous learning", "Adaptability"]
+  }
+};
 ```
+
+</div>
+
+---
+
+## 🚀 **Featured Projects Showcase**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 **cub3D - 3D Game Engine**
+<img src="https://img.shields.io/badge/Score-125%2F100-gold?style=flat-square&logo=42"/>
+<img src="https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/Graphics-MLX-green?style=flat-square"/>
+
+**Built a complete 3D raycasting engine from scratch**
+
+```c
+typedef struct s_game {
+    t_player    player;
+    t_map       *map;
+    t_texture   textures[4];
+    void        *mlx_ptr;
+    t_img       img;
+    double      *z_buffer;
+} t_game;
+```
+
+✨ **Key Features:**
+- Raycasting algorithm implementation
+- Texture mapping & sprite rendering  
+- Collision detection & player movement
+- Optimized for smooth performance
+
+</td>
+<td width="50%">
+
+### 🌐 **ft_transcendence - Full-Stack Platform**
+<img src="https://img.shields.io/badge/Score-110%2F100-brightgreen?style=flat-square&logo=42"/>
+<img src="https://img.shields.io/badge/Stack-Full%20Stack-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real%20Time-WebSocket-orange?style=flat-square"/>
+
+**Real-time multiplayer Pong with complete user system**
+
+```typescript
+interface GameFeatures {
+  realTime: "WebSocket multiplayer";
+  auth: "JWT + 2FA security";
+  ui: "React + TypeScript";
+  backend: "Node.js + PostgreSQL";
+  deployment: "Docker containers";
+}
+```
+
+🔥 **Tech Highlights:**
+- Real-time game synchronization
+- Secure authentication system
+- PostgreSQL database design
+- Docker containerization
 
 </td>
 </tr>
@@ -202,181 +310,131 @@ class ReliableEngineer:
 
 ---
 
-## 🚀 **Featured Projects**
-
-### 🎮 **cub3D - 3D Game Engine** `125/100`
-<details>
-<summary><b>Technical Details</b></summary>
-
-```c
-/*
-** Implemented a 3D raycasting engine in C
-*/
-
-typedef struct s_game {
-    t_player    player;
-    t_map       *map;
-    t_texture   textures[4];
-    t_sprite    *sprites;
-    void        *mlx_ptr;
-    void        *win_ptr;
-    t_img       img;
-    double      *z_buffer;
-}   t_game;
-
-// Highlights:
-// - Raycasting algorithm from first principles
-// - Texture mapping and collision detection  
-// - Sprite rendering with depth sorting
-// - Player movement and rotation
-// - Map parsing with validation
-// - Clean memory management
-```
-
-**Achievements:**
-- Built with MLX graphics library
-- Optimized for smooth performance
-- Validated with tools like Valgrind
-
-</details>
-
----
-
-### 🌐 **ft_transcendence - Full-Stack Pong Platform** `110/100`
-<details>
-<summary><b>Project Overview</b></summary>
-
-```typescript
-// Full-stack application with real-time features
-interface TranscendenceFeatures {
-    realTimePong: {
-        technology: "WebSockets",
-        physics: "Custom engine",
-        multiplayer: "Synchronized gameplay"
-    };
-    userManagement: {
-        authentication: "JWT + 2FA",
-        profiles: "Avatars and stats",
-        friendship: "Social features"
-    };
-    security: {
-        sqlInjection: "Protected",
-        xss: "Handled",
-        csrf: "Secured"
-    };
-    deployment: "Docker-based"
-}
-```
-
-**Tech Stack:**
-- **Frontend:** TypeScript, React, CSS3
-- **Backend:** Node.js, Express, PostgreSQL
-- **Real-time:** WebSockets
-- **Security:** JWT, sanitization
-- **Deployment:** Docker containers
-
-</details>
-
----
-
-### ⚡ **webserv - HTTP Server from Scratch** `100/100`
-<details>
-<summary><b>Implementation Details</b></summary>
-
-```cpp
-class WebServer {
-private:
-    std::map<int, Client>           _clients;
-    std::vector<ServerConfig>       _servers;
-    fd_set                          _read_fds, _write_fds;
-    
-public:
-    void    run() {
-        // Manage concurrent connections
-        // Parse HTTP/1.1 requests
-        // Serve files and CGI
-        // Ensure stability and no leaks
-    }
-};
-```
-
-**Key Features:**
-- HTTP/1.1 compliance per RFC
-- Virtual hosting
-- CGI execution
-- File uploads with chunking
-- Config parsing
-- Stress-tested for reliability
-
-</details>
-
----
-
-## 🌱 **Balancing Life and Learning**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-### 🤱 **Coding Amidst Family Life**
+<table>
+<tr>
+<td width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FEE77A&text_color=FFFFFF&ring_color=FF6B9D&fire=FF6B9D" />
+
+</td>
+<td width="50%">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FEE77A&fire=FF6B9D&currStreakLabel=FEE77A&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+
+</td>
+</tr>
+</table>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaniereis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=FFFFFF" />
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=melaniereis&bg_color=0d1117&color=FF6B9D&line=FEE77A&point=FFFFFF&area=true&hide_border=true&custom_title=Melanie's%20Coding%20Journey%20-%20From%20Healthcare%20to%20Code" />
+
+</div>
+
+---
+
+## 🌱 **Life & Learning Balance**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+### 🤱 **The Incredible Journey**
 
 ```python
-# Juggling responsibilities
-class ResilientCoder:
+class ResilientDeveloper:
     def __init__(self):
-        self.sleep_hours = "limited"
-        self.coding_time = "flexible"
-        self.family_focus = True
-        self.motivation = "high"
-    
-    def complete_program(self, challenges="family_and_work"):
-        if challenges == "demanding":
-            return "SUCCESS_ACHIEVED"
-        
-    def get_insights(self):
-        return [
-            "✅ Managed debugging during family time",
-            "✅ Met deadlines consistently", 
-            "✅ Passed evaluations under constraints",
-            "✅ Balanced learning with motherhood",
-            "✅ Graduated with 110/100 while raising young children"
+        self.challenges = [
+            "👶 Coding during pregnancy",
+            "🏥 Full-time healthcare work",
+            "😴 Limited sleep (2-3 hours)",
+            "🤱 New mother responsibilities"
         ]
+        self.achievements = [
+            "✅ 42 Porto Graduate - 110/100",
+            "✅ 20+ projects completed",
+            "✅ Zero failed evaluations",
+            "✅ Consistent high performance"
+        ]
+    
+    def get_inspiration(self):
+        return "Proving that with determination, any challenge is conquerable"
 ```
 
-**Reflections:**
-- Completed 20+ projects during pregnancy and early parenthood
-- Adapted to 2-3 hours of sleep when needed
-- Integrated coding into daily routines
-- Maintained quality and timelines
-- Grateful for family support and the 42 community
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Success"/>
+
+**📈 Achievement Unlocked:**
+<br>
+*Balanced motherhood and intensive coding education while maintaining excellence*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🌟 **Upcoming: SEA:ME Automotive**
+## 🎯 **Next Chapter: SEA:ME Automotive**
 
 <div align="center">
 
-### 🚗💻 **Starting October 2025**
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,14,20&height=200&section=header&text=Starting%20October%202025&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Bridging%20Healthcare%20%26%20Automotive%20Tech&descAlignY=70" />
+
+### 🚗💻 **Vision for the Future**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🩺 In-Vehicle Health**
+<br>
+Monitoring driver wellness
+<br>
+Real-time health alerts
+
+</td>
+<td width="33%" align="center">
+
+**🚨 Emergency Systems**
+<br>
+Crisis response automation
+<br>
+Life-saving technology
+
+</td>
+<td width="33%" align="center">
+
+**🏥 Mobile Healthcare**
+<br>
+Telemedicine in vehicles
+<br>
+Remote patient monitoring
+
+</td>
+</tr>
+</table>
 
 ```cpp
-// Bridging healthcare and automotive tech
 namespace AutomotiveHealthTech {
-    class Vision {
-    private:
-        std::string background = "5 years in surgery";
-        std::string coding_skills = "42 Porto graduate";
-        std::string next_step = "SEA:ME Automotive Engineering";
-        
+    class NextGeneration {
     public:
-        std::vector<std::string> focus_areas() {
-            return {
-                "🩺 In-vehicle health monitoring",
-                "🚨 Emergency response systems", 
-                "🧠 Driver wellness analytics",
-                "🏥 Telemedicine in vehicles",
-                "⚡ Safety-critical software"
-            };
-        }
+        std::string mission = "Apply healthcare precision to automotive safety";
+        std::vector<std::string> focus = {
+            "Safety-critical software",
+            "Driver wellness monitoring", 
+            "Emergency response systems",
+            "Medical-grade reliability"
+        };
     };
 }
 ```
@@ -385,51 +443,47 @@ namespace AutomotiveHealthTech {
 
 ---
 
-## 📈 **GitHub Stats**
+## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=melaniereis&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FEE77A&text_color=FFFFFF&ring_color=FF6B9D&fire=FF6B9D" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=melaniereis&theme=radical&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FEE77A&fire=FF6B9D&currStreakLabel=FEE77A&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+<table>
+<tr>
+<td align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=melaniereis&bg_color=0d1117&color=FF6B9D&line=FEE77A&point=FFFFFF&area=true&hide_border=true&custom_title=Melanie's%20Coding%20Journey%20-%20From%20Healthcare%20to%20Code" />
-
-</div>
-
----
-
-## 🔗 **Get in Touch**
-
-<div align="center">
-
-```yaml
-contact:
-  philosophy: "Applying precision from healthcare to reliable software"
-  availability: "Open to opportunities in HealthTech and Automotive"
-  specialties: ["HealthTech", "Safety-Critical Systems", "Automotive", "Full-Stack"]
-  
-channels:
-  linkedin: "melanie-ferraz-reis-622229a5"
-  email: "melanie.ferraz@ua.pt" 
-  github: "melaniereis"
-  location: "Ovar, Portugal 🇵🇹"
-  
-values:
-  - precision_engineering
-  - reliable_systems  
-  - continuous_learning
-  - work_life_balance
-```
-
+### 📧 **Get in Touch**
+<br>
+<a href="mailto:melanie.ferraz@ua.pt">
+  <img src="https://img.shields.io/badge/Email-melanie.ferraz%40ua.pt-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+<br><br>
 <a href="https://www.linkedin.com/in/melanie-ferraz-reis-622229a5">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="mailto:melanie.ferraz@ua.pt">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://github.com/melaniereis">
-  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
+
+</td>
+<td align="center">
+
+### 🌍 **Professional Info**
+<br>
+📍 **Location:** Ovar, Portugal 🇵🇹
+<br>
+🎯 **Focus:** HealthTech & Automotive
+<br>
+💼 **Open to:** Safety-critical roles
+<br>
+🚀 **Availability:** Open to opportunities
+
+</td>
+</tr>
+</table>
+
+### 💭 **Philosophy**
+
+> *"I approach code with the same precision as surgery—focused, reliable, and impactful.  
+> Every line matters when lives depend on it."*
+
+<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=FF6B9D&style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -437,19 +491,30 @@ values:
 
 <div align="center">
 
-### 💭 **"I approach code with the same precision as surgery—focused, reliable, and impactful."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,3,20&height=200&section=footer&animation=twinkling" />
 
-<img src="https://komarev.com/ghpvc/?username=melaniereis&label=Profile%20Views&color=FF6B9D&style=for-the-badge&labelColor=0d1117" />
-
----
+### ⚡ **Ready to Build the Future Together?**
 
 ```diff
-+ If you're seeking a developer with a unique blend of healthcare experience and technical skills,
-+ Who prioritizes precision and collaboration,
-+ Who balanced intensive learning with family life,
-+ And is passionate about safety-critical tech...
++ Seeking a developer with surgical precision and technical excellence?
++ Someone who thrives under pressure and delivers reliable solutions?  
++ A unique blend of healthcare experience and cutting-edge programming skills?
 
-! Let's connect. 🔥
+! Let's connect and create something extraordinary! 🚀
 ```
 
+**[⭐ Star this profile](https://github.com/melaniereis) • [🔗 Connect on LinkedIn](https://www.linkedin.com/in/melanie-ferraz-reis-622229a5) • [📧 Email me](mailto:melanie.ferraz@ua.pt)**
+
 </div>
+
+<!--
+Hidden comment: This README uses modern design trends including:
+- Animated SVG headers and footers
+- Dynamic typing animations
+- Interactive stats widgets
+- Professional color scheme with gradients
+- Improved visual hierarchy and spacing
+- Personal branding and storytelling
+- Mobile-responsive design
+- Modern badges and icons
+-->
