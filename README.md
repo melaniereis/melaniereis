@@ -18,9 +18,6 @@
 
 <div align="center">
 
-### ✨ The Impossible Journey ✨
-
-</div>
 
 > **September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
 >
@@ -48,8 +45,6 @@
 </td>
 </tr>
 </table>
-
-</div><details>
 <summary><b>💻 View the Code Behind the Journey</b></summary>
 
 <br>
@@ -83,7 +78,6 @@ const achievement = {
 </div>
 
 ---
-
 ## 🎯 Professional Timeline
 
 <div align="center">
@@ -122,7 +116,7 @@ const achievement = {
 
 **Full-Stack Pong Platform**
 – Real-time WebSockets gameplay
-– JWT + 2FA secure authentication
+- Multiplayer and AI opponent
 – Dockerized deployment & CI/CD
 
 </td>
