@@ -16,27 +16,58 @@
 
 ## 🌟 The Story
 
-### The Impossible Journey
+<div align="center">
 
-**September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home. While other students had 8+ hours daily, I coded between feedings, nap times, and 12-hour surgical shifts. I encountered multiple project failures along the way—but each retry taught me something new.
+### ✨ The Impossible Journey ✨
 
-**The Result:** ✅ **42 Porto Graduate** • ✅ **Completed Common Core** (September 2025) • ✅ **11 months** from newborn to graduate • ⚠️ **Learned from project failures**
+</div>
+
+> **September 2024:** Started the intensive **42 Piscine** with a **1-month-old newborn** and **2-year-old son** at home.
+>
+> While other students had 8+ hours daily, I coded between feedings, nap times, and 12-hour surgical shifts. I encountered multiple project failures along the way—but each retry taught me something new.
+
+<div align="center">
+
+### 🏆 **The Result** 🏆
+
+✅ **42 Porto Graduate** &nbsp;&nbsp;•&nbsp;&nbsp; ✅ **Completed Common Core** (September 2025)
+✅ **11 months** from newborn to graduate &nbsp;&nbsp;•&nbsp;&nbsp; ⚠️ **Learned from project failures**
+
+</div>
+
+<br>
+
+<div align="center">
 
 ```javascript
-// The journey that seemed impossible
+// The journey that seemed impossible 🚀
 const achievement = {
   timeline: "11 months",
-  challenges: ["👶 1-month newborn", "🧒 2-year-old toddler", "🏥 Full-time surgical nurse", "😴 2-3 hours sleep/night", "💻 42 School intensity"],
+  challenges: [
+    "👶 1-month newborn",
+    "🧒 2-year-old toddler",
+    "🏥 Full-time surgical nurse",
+    "😴 2-3 hours sleep/night",
+    "💻 42 School intensity"
+  ],
   result: "42 Porto Graduate",
   failures: "Multiple project retries",
-  getInspiration() { return "Failure is feedback—keep going!"; }
+
+  getInspiration() {
+    return "Failure is feedback—keep going! 💪";
+  }
 };
 ```
 
-*Proving that persistence and resilience overcome any obstacle.*
+</div>
+
+<div align="center">
+
+*✨ Proving that persistence and resilience overcome any obstacle ✨*
+
+</div>
 
 ---
-
 ## 🎯 Professional Timeline
 
 <div align="center">
