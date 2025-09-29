@@ -278,6 +278,6 @@ Fresh from graduating 42 Porto while balancing surgery and motherhood, I’m rea
 
 **Ready to build the future of HealthTech and Automotive together?** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,4,30&height=120&section=footer" />
 
 </div>
