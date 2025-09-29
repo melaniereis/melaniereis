@@ -141,8 +141,6 @@ const achievement = {
 | [**NetPractice**](https://github.com/melaniereis/42_NetPractice) | `100/100`   | Network configuration, TCP/IP              | 🟢 Basic      |
 | [**CPP Modules 00-09**](https://github.com/melaniereis/42_cpp_modules) | `95-100/100`| OOP, templates, STL                        | 🟡 Medium     |
 
-**🏆 Achievement:** Completed all core projects—some with retries—while balancing healthcare and family.
-
 </details>
 
 ---
@@ -197,23 +195,6 @@ const achievement = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Makefile](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-### 🏆 **Technical Expertise Summary**
-
-<div align="center">
-
-| Domain | Level | Key Projects |
-|:-------|:------|:-------------|
-| **🌐 Web Server Engineering** | Expert | Custom HTTP/1.1 server, CGI, concurrent connections |
-| **🎮 Graphics Programming** | Advanced | 3D raycasting engine, 2D game development, real-time rendering |
-| **⚡ Systems Programming** | Expert | Threading, IPC, memory management, Unix signals |
-| **🔧 Full-Stack Development** | Advanced | Multiplayer platform, WebSocket gaming |
-| **🐳 DevOps & Infrastructure** | Intermediate | Docker orchestration, service deployment, security |
-| **📊 Algorithm Design** | Advanced | Sorting optimization, data structures, performance analysis |
-
-**🎯 Specialization:** Safety-critical systems, real-time applications, performance optimization
 
 </div>
 
